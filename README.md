@@ -55,9 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/aash553/leetcode-gfg/tree/master/0060-permutation-sequence) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/aash553/leetcode-gfg/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 ## Hash Table
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/aash553/leetcode-gfg/tree/master/0242-valid-anagram) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/aash553/leetcode-gfg/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
