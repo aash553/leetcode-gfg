@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/aash553/leetcode-gfg/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/aash553/leetcode-gfg/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/aash553/leetcode-gfg/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/aash553/leetcode-gfg/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/aash553/leetcode-gfg/tree/master/0451-sort-characters-by-frequency) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aash553/leetcode-gfg/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
