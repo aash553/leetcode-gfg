@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/aash553/leetcode-gfg/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/aash553/leetcode-gfg/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aash553/leetcode-gfg/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/aash553/leetcode-gfg/tree/master/0046-permutations) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/aash553/leetcode-gfg/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/aash553/leetcode-gfg/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/aash553/leetcode-gfg/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
