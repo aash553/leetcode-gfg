@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/aash553/leetcode-gfg/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aash553/leetcode-gfg/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/aash553/leetcode-gfg/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/aash553/leetcode-gfg/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/aash553/leetcode-gfg/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/aash553/leetcode-gfg/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/aash553/leetcode-gfg/tree/master/0164-maximum-gap) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aash553/leetcode-gfg/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aash553/leetcode-gfg/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
@@ -118,5 +120,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aash553/leetcode-gfg/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/aash553/leetcode-gfg/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
