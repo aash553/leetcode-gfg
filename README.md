@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/aash553/leetcode-gfg/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/aash553/leetcode-gfg/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/aash553/leetcode-gfg/tree/master/0078-subsets) |
+| [0118-pascals-triangle](https://github.com/aash553/leetcode-gfg/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/aash553/leetcode-gfg/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/aash553/leetcode-gfg/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/aash553/leetcode-gfg/tree/master/0164-maximum-gap) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aash553/leetcode-gfg/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/aash553/leetcode-gfg/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/aash553/leetcode-gfg/tree/master/0152-maximum-product-subarray) |
 ## Quickselect
 |  |
