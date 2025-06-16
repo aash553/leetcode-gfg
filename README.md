@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/aash553/leetcode-gfg/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/aash553/leetcode-gfg/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/aash553/leetcode-gfg/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/aash553/leetcode-gfg/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aash553/leetcode-gfg/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/aash553/leetcode-gfg/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aash553/leetcode-gfg/tree/master/0215-kth-largest-element-in-an-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/aash553/leetcode-gfg/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aash553/leetcode-gfg/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aash553/leetcode-gfg/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/aash553/leetcode-gfg/tree/master/0287-find-the-duplicate-number) |
