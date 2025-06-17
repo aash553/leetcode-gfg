@@ -1,14 +1,15 @@
 class Solution {
 public:
-
-    int helper(int n ){
-        if(n==0)return 0;
-        if(n==1) return 1;
-        int fibo = helper(n-1)+helper(n-2);
-        return fibo;
-    }
-    
     int fib(int n) {
-       return helper(n);
+        if(n==0) return 0;
+        if ( n==1) return 1;
+        int a = 0;
+        int b = 1;
+        for ( int i=2;i<=n;i++){
+            int newnumber = a+b;
+            a=b;
+            b=newnumber;
+        }
+        return b;
     }
 };
