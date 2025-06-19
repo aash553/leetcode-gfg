@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aash553/leetcode-gfg/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aash553/leetcode-gfg/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/aash553/leetcode-gfg/tree/master/0060-permutation-sequence) |
+| [0070-climbing-stairs](https://github.com/aash553/leetcode-gfg/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/aash553/leetcode-gfg/tree/master/0486-predict-the-winner) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/aash553/leetcode-gfg/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1013-fibonacci-number](https://github.com/aash553/leetcode-gfg/tree/master/1013-fibonacci-number) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/aash553/leetcode-gfg/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/aash553/leetcode-gfg/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/aash553/leetcode-gfg/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/aash553/leetcode-gfg/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/aash553/leetcode-gfg/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/aash553/leetcode-gfg/tree/master/0486-predict-the-winner) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aash553/leetcode-gfg/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/aash553/leetcode-gfg/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
 |  |
