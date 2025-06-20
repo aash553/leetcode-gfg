@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aash553/leetcode-gfg/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aash553/leetcode-gfg/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/aash553/leetcode-gfg/tree/master/0164-maximum-gap) |
+| [0189-rotate-array](https://github.com/aash553/leetcode-gfg/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/aash553/leetcode-gfg/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aash553/leetcode-gfg/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/aash553/leetcode-gfg/tree/master/0216-combination-sum-iii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/aash553/leetcode-gfg/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/aash553/leetcode-gfg/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/aash553/leetcode-gfg/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/aash553/leetcode-gfg/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/aash553/leetcode-gfg/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/aash553/leetcode-gfg/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/aash553/leetcode-gfg/tree/master/0567-permutation-in-string) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/aash553/leetcode-gfg/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/aash553/leetcode-gfg/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/aash553/leetcode-gfg/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/aash553/leetcode-gfg/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/aash553/leetcode-gfg/tree/master/0486-predict-the-winner) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/aash553/leetcode-gfg/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1013-fibonacci-number](https://github.com/aash553/leetcode-gfg/tree/master/1013-fibonacci-number) |
