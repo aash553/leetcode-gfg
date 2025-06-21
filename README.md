@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aash553/leetcode-gfg/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/aash553/leetcode-gfg/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aash553/leetcode-gfg/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/aash553/leetcode-gfg/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/aash553/leetcode-gfg/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/aash553/leetcode-gfg/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/aash553/leetcode-gfg/tree/master/0118-pascals-triangle) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/aash553/leetcode-gfg/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/aash553/leetcode-gfg/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/aash553/leetcode-gfg/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aash553/leetcode-gfg/tree/master/0240-search-a-2d-matrix-ii) |
 ## Greedy
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/aash553/leetcode-gfg/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/aash553/leetcode-gfg/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/aash553/leetcode-gfg/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/aash553/leetcode-gfg/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/aash553/leetcode-gfg/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/aash553/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
