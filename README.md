@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/aash553/leetcode-gfg/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/aash553/leetcode-gfg/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aash553/leetcode-gfg/tree/master/0344-reverse-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/aash553/leetcode-gfg/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aash553/leetcode-gfg/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/aash553/leetcode-gfg/tree/master/0567-permutation-in-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aash553/leetcode-gfg/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aash553/leetcode-gfg/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aash553/leetcode-gfg/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/aash553/leetcode-gfg/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/aash553/leetcode-gfg/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aash553/leetcode-gfg/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/aash553/leetcode-gfg/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/aash553/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aash553/leetcode-gfg/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/aash553/leetcode-gfg/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/aash553/leetcode-gfg/tree/master/0567-permutation-in-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aash553/leetcode-gfg/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Dynamic Programming
