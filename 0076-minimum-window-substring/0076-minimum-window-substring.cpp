@@ -10,7 +10,7 @@ public:
         int i =0 , j=0;
         int start_i=0;
 
-        map<char,int>mpp;
+        unordered_map<char,int>mpp;
        for(char &ch : t){
         mpp[ch]++;
        }
