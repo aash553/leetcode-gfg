@@ -3,12 +3,12 @@ public:
     int maxDepth(string s) {
         int maxi = 0;
         int depth=0;
-        for(char ch :s){
-            if(ch =='('){
+        for(int i =0;i<s.length();i++){
+            if(s[i] =='('){
                 depth++;
-                maxi = (maxi,depth);
+                maxi = max(maxi,depth);
             }
-            else if(ch == ')'){
+            else if(s[i] == ')'){
                 depth--;
             }
         }
