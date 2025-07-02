@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aash553/leetcode-gfg/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/aash553/leetcode-gfg/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/aash553/leetcode-gfg/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aash553/leetcode-gfg/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/aash553/leetcode-gfg/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/aash553/leetcode-gfg/tree/master/0093-restore-ip-addresses) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aash553/leetcode-gfg/tree/master/0020-valid-parentheses) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aash553/leetcode-gfg/tree/master/0780-max-chunks-to-make-sorted) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aash553/leetcode-gfg/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
