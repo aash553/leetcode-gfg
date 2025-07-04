@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/aash553/leetcode-gfg/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/aash553/leetcode-gfg/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/aash553/leetcode-gfg/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/aash553/leetcode-gfg/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/aash553/leetcode-gfg/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aash553/leetcode-gfg/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/aash553/leetcode-gfg/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/aash553/leetcode-gfg/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/aash553/leetcode-gfg/tree/master/0486-predict-the-winner) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/aash553/leetcode-gfg/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/aash553/leetcode-gfg/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/aash553/leetcode-gfg/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/aash553/leetcode-gfg/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/aash553/leetcode-gfg/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/aash553/leetcode-gfg/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/aash553/leetcode-gfg/tree/master/1013-fibonacci-number) |
 ## Bucket Sort
