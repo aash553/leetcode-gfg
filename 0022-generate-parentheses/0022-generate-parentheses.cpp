@@ -1,19 +1,23 @@
 class Solution {
 public:
 
-    void func(int start ,int end , int n ,vector<string>&ans, string curr_str){
+    void fun(vector<string>&ans,int n , int open , int close , string curr_str){
+
+        // base case 
+
         if(curr_str.size() == n*2){
             ans.push_back(curr_str);
-            return;
         }
 
-        if(start<n)func(start+1,end,n,ans,curr_str+"(");
-        if(end<start)func(start,end+1,n,ans,curr_str+")");
+        if(open<n) fun(ans,n,open+1,close,curr_str+"(");
+        if(close<open) fun(ans,n,open,close+1,curr_str+")");
     }
 
     vector<string> generateParenthesis(int n) {
+        
         vector<string>ans;
-        func(0,0,n,ans,"");
+
+        fun(ans,n,0,0,"");
         return ans;
     }
 };
