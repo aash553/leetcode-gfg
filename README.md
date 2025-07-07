@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/aash553/leetcode-gfg/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aash553/leetcode-gfg/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/aash553/leetcode-gfg/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/aash553/leetcode-gfg/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/aash553/leetcode-gfg/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/aash553/leetcode-gfg/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aash553/leetcode-gfg/tree/master/0053-maximum-subarray) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/aash553/leetcode-gfg/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/aash553/leetcode-gfg/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/aash553/leetcode-gfg/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/aash553/leetcode-gfg/tree/master/0169-majority-element) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/aash553/leetcode-gfg/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aash553/leetcode-gfg/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/aash553/leetcode-gfg/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/aash553/leetcode-gfg/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/aash553/leetcode-gfg/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/aash553/leetcode-gfg/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/aash553/leetcode-gfg/tree/master/0078-subsets) |
