@@ -1,45 +1,33 @@
 class MyQueue {
 public:
 
-private:
-    stack<int> inStack;
-    stack<int> outStack;
-
-    // Transfer elements from inStack to outStack
-    void transfer() {
-        while (!inStack.empty()) {
-            outStack.push(inStack.top());
-            inStack.pop();
-        }
-    }
-
-public:
-    MyQueue() {
-        // Constructor - nothing needed here
-    }
+    stack<int>s1,s2;
+    MyQueue() {}
     
     void push(int x) {
-        inStack.push(x);
+        while(s1.size()){
+            s2.push(s1.top());
+            s1.pop();
+        }
+        s1.push(x);
+        while(s2.size()){
+            s1.push(s2.top());
+            s2.pop();
+        }
     }
     
     int pop() {
-        if (outStack.empty()) {
-            transfer();
-        }
-        int val = outStack.top();
-        outStack.pop();
+        int val = s1.top();
+        s1.pop();
         return val;
     }
     
     int peek() {
-        if (outStack.empty()) {
-            transfer();
-        }
-        return outStack.top();
+     return s1.top();
     }
     
     bool empty() {
-        return inStack.empty() && outStack.empty();
+        return s1.empty();
     }
 };
 
