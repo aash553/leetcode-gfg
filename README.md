@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/aash553/leetcode-gfg/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1013-fibonacci-number](https://github.com/aash553/leetcode-gfg/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aash553/leetcode-gfg/tree/master/1370-count-number-of-nice-subarrays) |
+| [2050-count-good-numbers](https://github.com/aash553/leetcode-gfg/tree/master/2050-count-good-numbers) |
 | [2491-smallest-even-multiple](https://github.com/aash553/leetcode-gfg/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/aash553/leetcode-gfg/tree/master/2507-number-of-common-factors) |
 ## Hash Table
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/aash553/leetcode-gfg/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/aash553/leetcode-gfg/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/aash553/leetcode-gfg/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/aash553/leetcode-gfg/tree/master/2050-count-good-numbers) |
 ## Bucket Sort
 |  |
 | ------- |
