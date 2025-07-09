@@ -1,20 +1,40 @@
 class Solution {
 public:
-    bool wordBreak(string s, vector<string>& wordDict) {
-        unordered_set<string> dict(wordDict.begin(), wordDict.end());
-        int n = s.length();
-        vector<bool> dp(n + 1, false);
-        dp[0] = true; // Empty string can always be segmented
 
-        for (int i = 1; i <= n; ++i) {
-            for (int j = 0; j < i; ++j) {
-                if (dp[j] && dict.find(s.substr(j, i - j)) != dict.end()) {
-                    dp[i] = true;
-                    break;
-                }
+unordered_set<string>st;
+
+bool solve(int ind , string & s, vector<int>&dp){
+        
+    int n = s.length();
+    if(ind == n){
+        return true;
+    }
+
+     if (dp[ind] != -1) return dp[ind];
+     
+    if (st.find(s) != st.end()) 
+    return true;
+
+        for(int l=1;l<=n;l++){
+            string temp = s.substr(ind,l);
+            if(st.find(temp)!=st.end() &&  solve(ind+l,s,dp)){
+                return dp[ind] = true;
             }
         }
+        return dp[ind]=false;
+}
 
-        return dp[n];
+    
+    bool wordBreak(string s, vector<string>& wordDict) {
+
+
+        for(string &word : wordDict){
+            st.insert(word);
+        }
+        int n = s.length();
+        vector<int>dp(n+1,-1);
+
+        return solve(0,s,dp);
+
     }
 };
