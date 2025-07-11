@@ -3,8 +3,6 @@ public:
         stack<long long>st;
         long long mini = INT_MAX;
     MinStack() {
-        while (!st.empty()) st.pop();
-        mini = LLONG_MAX;
     }
     void push(int val) {
         long long x= val;
