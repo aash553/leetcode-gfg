@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aash553/leetcode-gfg/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aash553/leetcode-gfg/tree/master/0780-max-chunks-to-make-sorted) |
 | [0875-longest-mountain-in-array](https://github.com/aash553/leetcode-gfg/tree/master/0875-longest-mountain-in-array) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aash553/leetcode-gfg/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0943-sum-of-subarray-minimums](https://github.com/aash553/leetcode-gfg/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/aash553/leetcode-gfg/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/aash553/leetcode-gfg/tree/master/1034-subarrays-with-k-different-integers) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/aash553/leetcode-gfg/tree/master/0287-find-the-duplicate-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/aash553/leetcode-gfg/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aash553/leetcode-gfg/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aash553/leetcode-gfg/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/aash553/leetcode-gfg/tree/master/1046-max-consecutive-ones-iii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aash553/leetcode-gfg/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Bit Manipulation
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aash553/leetcode-gfg/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/aash553/leetcode-gfg/tree/master/0451-sort-characters-by-frequency) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aash553/leetcode-gfg/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1127-last-stone-weight](https://github.com/aash553/leetcode-gfg/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/aash553/leetcode-gfg/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Counting
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/aash553/leetcode-gfg/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aash553/leetcode-gfg/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/aash553/leetcode-gfg/tree/master/0567-permutation-in-string) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aash553/leetcode-gfg/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/aash553/leetcode-gfg/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/aash553/leetcode-gfg/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/aash553/leetcode-gfg/tree/master/1046-max-consecutive-ones-iii) |
@@ -302,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aash553/leetcode-gfg/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/aash553/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aash553/leetcode-gfg/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/aash553/leetcode-gfg/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/aash553/leetcode-gfg/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aash553/leetcode-gfg/tree/master/1370-count-number-of-nice-subarrays) |
@@ -348,5 +353,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aash553/leetcode-gfg/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aash553/leetcode-gfg/tree/master/0232-implement-queue-using-stacks) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aash553/leetcode-gfg/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2195-time-needed-to-buy-tickets](https://github.com/aash553/leetcode-gfg/tree/master/2195-time-needed-to-buy-tickets) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aash553/leetcode-gfg/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
