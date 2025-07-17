@@ -2,26 +2,24 @@ class Solution {
 
   public:
     bool findSwapValues(vector<int>& a, vector<int>& b) {
-        int cnta=0,  cntb=0;
+        int cnt1=0 , cnt2=0;
         for(int i =0;i<a.size();i++){
-            cnta+=a[i];
+            cnt1 += a[i];
+        }
+        for(int i =0;i<b.size();i++){
+            cnt2 +=b[i];
         }
         
-        for(int i=0;i<b.size();i++){
-            cntb+=b[i];
-        }
+        int diff = cnt1-cnt2;
         
-        int diff = cnta-cntb;
-        
-        if(diff%2!=0)return false;
+        if(diff %2 !=0) return false;
         
         int target = diff/2;
         
-        unordered_set<int>setb(b.begin(),b.end());
+        unordered_set<int> setb(b.begin(),b.end());
         
         for(int i =0;i<a.size();i++){
             int need = a[i]-target;
-            
             
             if(setb.count(need)){
                 return true;
