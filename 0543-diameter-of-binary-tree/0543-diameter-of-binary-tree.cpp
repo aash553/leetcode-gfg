@@ -16,7 +16,6 @@ public:
         height(root,diameter);
         return diameter;
     }
-private :
 
     int height(TreeNode * node , int &diameter){
 
