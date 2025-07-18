@@ -7,7 +7,7 @@ int solve(vector<int>nums , int k){
         int l =0;
         int r = 0;
         int n = nums.size();
-        int cnt = 1;
+        int cnt = 0;
 
         while(r<n){
             mpp[nums[r]]++;
@@ -17,8 +17,8 @@ int solve(vector<int>nums , int k){
             mpp.erase(nums[l]);
             l++;
         }
-        r=r+1;
         cnt += r-l+1;
+        r=r+1;
         }
         return cnt;
 }
