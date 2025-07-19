@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aash553/leetcode-gfg/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2195-time-needed-to-buy-tickets](https://github.com/aash553/leetcode-gfg/tree/master/2195-time-needed-to-buy-tickets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aash553/leetcode-gfg/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3934-coupon-code-validator](https://github.com/aash553/leetcode-gfg/tree/master/3934-coupon-code-validator) |
 ## Two Pointers
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/aash553/leetcode-gfg/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aash553/leetcode-gfg/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [3617-find-the-original-typed-string-i](https://github.com/aash553/leetcode-gfg/tree/master/3617-find-the-original-typed-string-i) |
+| [3934-coupon-code-validator](https://github.com/aash553/leetcode-gfg/tree/master/3934-coupon-code-validator) |
 ## Stack
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/aash553/leetcode-gfg/tree/master/0780-max-chunks-to-make-sorted) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/aash553/leetcode-gfg/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aash553/leetcode-gfg/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [3934-coupon-code-validator](https://github.com/aash553/leetcode-gfg/tree/master/3934-coupon-code-validator) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/aash553/leetcode-gfg/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/aash553/leetcode-gfg/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aash553/leetcode-gfg/tree/master/1370-count-number-of-nice-subarrays) |
+| [3934-coupon-code-validator](https://github.com/aash553/leetcode-gfg/tree/master/3934-coupon-code-validator) |
 ## Recursion
 |  |
 | ------- |
