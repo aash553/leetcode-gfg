@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/aash553/leetcode-gfg/tree/master/0451-sort-characters-by-frequency) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aash553/leetcode-gfg/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aash553/leetcode-gfg/tree/master/0780-max-chunks-to-make-sorted) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/aash553/leetcode-gfg/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aash553/leetcode-gfg/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3934-coupon-code-validator](https://github.com/aash553/leetcode-gfg/tree/master/3934-coupon-code-validator) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/aash553/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/aash553/leetcode-gfg/tree/master/0567-permutation-in-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/aash553/leetcode-gfg/tree/master/0966-binary-subarrays-with-sum) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/aash553/leetcode-gfg/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aash553/leetcode-gfg/tree/master/1370-count-number-of-nice-subarrays) |
 | [3934-coupon-code-validator](https://github.com/aash553/leetcode-gfg/tree/master/3934-coupon-code-validator) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/aash553/leetcode-gfg/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aash553/leetcode-gfg/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/aash553/leetcode-gfg/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aash553/leetcode-gfg/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/aash553/leetcode-gfg/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aash553/leetcode-gfg/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -411,4 +416,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/aash553/leetcode-gfg/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aash553/leetcode-gfg/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
