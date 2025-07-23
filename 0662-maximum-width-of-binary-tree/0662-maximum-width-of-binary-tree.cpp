@@ -14,14 +14,14 @@ public:
     int widthOfBinaryTree(TreeNode* root) {
         int ans = 0;
         if(!root) return 0;
-        queue<pair<TreeNode* , long long >> q;
+        queue<pair<TreeNode* ,unsigned long long >> q;
         q.push({root,0});
         while(!q.empty()){
             int size = q.size();
-            long long mini = q.front().second;
-            long long first, last;
+          unsigned long long mini = q.front().second;
+           unsigned long long first, last;
             for(int i =0;i<size;i++){
-            long long cur_id = q.front().second-mini;
+           unsigned long long cur_id = q.front().second-mini;
             TreeNode * node = q.front().first;
             q.pop();
             if(i==0) first=cur_id;
