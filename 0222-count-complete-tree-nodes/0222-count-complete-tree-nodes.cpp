@@ -12,12 +12,32 @@
 class Solution {
 public:
     int countNodes(TreeNode* root) {
-        int cnt = 0;
-        if(!root) return 0;
         
-        int left = countNodes(root->left);
-        int right = countNodes(root->right);
-        cnt = left+right;
-        return cnt+1;
-    }
+        if(root == NULL) return 0;
+
+        int lh = leftheight(root);
+        int rh = rightheight(root);
+
+        if(lh == rh) return (1<<lh) - 1;
+
+        return 1+countNodes(root->left) + countNodes(root->right);
+        }
+
+        int leftheight(TreeNode*node){
+            int heg=0;
+            while(node){
+                heg++;
+               node = node->left;
+            }
+            return heg;
+        }
+
+        int rightheight(TreeNode* node){
+            int heg = 0;
+            while(node){
+                heg++;
+               node =  node->right;
+            }
+            return heg;
+        }
 };
