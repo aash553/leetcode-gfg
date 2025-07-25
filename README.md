@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aash553/leetcode-gfg/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/aash553/leetcode-gfg/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/aash553/leetcode-gfg/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/aash553/leetcode-gfg/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/aash553/leetcode-gfg/tree/master/0039-combination-sum) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/aash553/leetcode-gfg/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/aash553/leetcode-gfg/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/aash553/leetcode-gfg/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/aash553/leetcode-gfg/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/aash553/leetcode-gfg/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aash553/leetcode-gfg/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/aash553/leetcode-gfg/tree/master/0076-minimum-window-substring) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/aash553/leetcode-gfg/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/aash553/leetcode-gfg/tree/master/0139-word-break) |
 ## Linked List
 |  |
