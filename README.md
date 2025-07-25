@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/aash553/leetcode-gfg/tree/master/1813-maximum-erasure-value) |
 | [2195-time-needed-to-buy-tickets](https://github.com/aash553/leetcode-gfg/tree/master/2195-time-needed-to-buy-tickets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aash553/leetcode-gfg/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aash553/leetcode-gfg/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3934-coupon-code-validator](https://github.com/aash553/leetcode-gfg/tree/master/3934-coupon-code-validator) |
 ## Two Pointers
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/aash553/leetcode-gfg/tree/master/0316-remove-duplicate-letters) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aash553/leetcode-gfg/tree/master/0780-max-chunks-to-make-sorted) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/aash553/leetcode-gfg/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aash553/leetcode-gfg/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/aash553/leetcode-gfg/tree/master/1370-count-number-of-nice-subarrays) |
 | [1813-maximum-erasure-value](https://github.com/aash553/leetcode-gfg/tree/master/1813-maximum-erasure-value) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aash553/leetcode-gfg/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aash553/leetcode-gfg/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3934-coupon-code-validator](https://github.com/aash553/leetcode-gfg/tree/master/3934-coupon-code-validator) |
 ## Recursion
 |  |
