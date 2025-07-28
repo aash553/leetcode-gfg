@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/aash553/leetcode-gfg/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aash553/leetcode-gfg/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1813-maximum-erasure-value](https://github.com/aash553/leetcode-gfg/tree/master/1813-maximum-erasure-value) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/aash553/leetcode-gfg/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2195-time-needed-to-buy-tickets](https://github.com/aash553/leetcode-gfg/tree/master/2195-time-needed-to-buy-tickets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aash553/leetcode-gfg/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/aash553/leetcode-gfg/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/aash553/leetcode-gfg/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aash553/leetcode-gfg/tree/master/1370-count-number-of-nice-subarrays) |
 | [1813-maximum-erasure-value](https://github.com/aash553/leetcode-gfg/tree/master/1813-maximum-erasure-value) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/aash553/leetcode-gfg/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aash553/leetcode-gfg/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aash553/leetcode-gfg/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3934-coupon-code-validator](https://github.com/aash553/leetcode-gfg/tree/master/3934-coupon-code-validator) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/aash553/leetcode-gfg/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aash553/leetcode-gfg/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/aash553/leetcode-gfg/tree/master/1034-subarrays-with-k-different-integers) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/aash553/leetcode-gfg/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Backtracking
 |  |
 | ------- |
