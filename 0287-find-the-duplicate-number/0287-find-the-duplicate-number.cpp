@@ -5,14 +5,13 @@ public:
         int fast = 0;
 
         do{
-            slow=nums[slow];
+            slow = nums[slow];
             fast = nums[nums[fast]];
         }while(slow!=fast);
 
-
-        slow = 0;
+        slow =0;
         while(slow!=fast){
-            slow = nums[slow] ;
+            slow = nums[slow];
             fast = nums[fast];
         }
         return slow;
