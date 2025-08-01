@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/aash553/leetcode-gfg/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aash553/leetcode-gfg/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0486-predict-the-winner](https://github.com/aash553/leetcode-gfg/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/aash553/leetcode-gfg/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/aash553/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aash553/leetcode-gfg/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0733-flood-fill](https://github.com/aash553/leetcode-gfg/tree/master/0733-flood-fill) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/aash553/leetcode-gfg/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/aash553/leetcode-gfg/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aash553/leetcode-gfg/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/aash553/leetcode-gfg/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/aash553/leetcode-gfg/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/aash553/leetcode-gfg/tree/master/1036-rotting-oranges) |
 ## Greedy
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/aash553/leetcode-gfg/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aash553/leetcode-gfg/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/aash553/leetcode-gfg/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/aash553/leetcode-gfg/tree/master/0542-01-matrix) |
 | [0875-longest-mountain-in-array](https://github.com/aash553/leetcode-gfg/tree/master/0875-longest-mountain-in-array) |
 | [0943-sum-of-subarray-minimums](https://github.com/aash553/leetcode-gfg/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/aash553/leetcode-gfg/tree/master/1013-fibonacci-number) |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/aash553/leetcode-gfg/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/aash553/leetcode-gfg/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/aash553/leetcode-gfg/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/aash553/leetcode-gfg/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/aash553/leetcode-gfg/tree/master/0733-flood-fill) |
