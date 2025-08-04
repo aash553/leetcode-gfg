@@ -15,7 +15,8 @@ public:
             q.pop();
 
             if(x!=y){
-                q.push(abs(y-x));
+                y=abs(y-x);
+                q.push(y);
             }
         }
         return q.empty() ? 0 : q.top();
