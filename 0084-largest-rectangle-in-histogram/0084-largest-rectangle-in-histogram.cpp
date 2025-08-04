@@ -3,15 +3,14 @@ public:
     int largestRectangleArea(vector<int>& heights) {
         int n = heights.size();
         stack<int>st;
-        int maxarea = INT_MIN;
-
-        for(int i =0;i<n;i++){
+        int maxi = INT_MIN;
+        for(int i =0;i<n ;i++){
             while(!st.empty() && heights[st.top()]>heights[i]){
-                int height = heights[st.top()]; 
+                int height = heights[st.top()];
                 st.pop();
-                int nse  = i;
+                int nse = i;
                 int pse = st.empty() ? -1 : st.top();
-                maxarea = max(height*(nse-pse-1),maxarea);
+                maxi = max(height*(nse-pse-1),maxi);
             }
             st.push(i);
         }
@@ -21,9 +20,8 @@ public:
             st.pop();
             int nse = n;
             int pse = st.empty() ? -1 : st.top();
-            maxarea = max(height*(nse-pse-1),maxarea);
+            maxi = max(height * (nse-pse-1),maxi);
         }
-
-        return maxarea;
+        return maxi;
     }
 };
