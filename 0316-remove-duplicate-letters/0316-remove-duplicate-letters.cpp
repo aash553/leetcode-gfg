@@ -3,28 +3,29 @@ public:
     string removeDuplicateLetters(string s) {
         int n = s.length();
         vector<int>lastindex(26);
-        vector<bool>taken(26,false);
+        vector<bool> taken(26,false);
 
-        string result;
+        string result = "";
 
-        for(int i =0;i<n;i++){
+        for(int i=0 ;i<n; i++){
             char ch = s[i];
-
-            lastindex[ch-'a'] =i;
+            lastindex[ch-'a'] = i; 
         }
 
         for(int i =0;i<n;i++){
+
             char ch = s[i];
-            int idx =ch-'a';
+            int ind = ch-'a';
 
-            if(taken[idx]==true) continue;
+            if(taken[ind]==true) continue;
 
-            while(result.length()>0 && result.back() > ch && lastindex[result.back()-'a']>i){
+            while( result.length() >0 && result.back() > ch && lastindex[result.back()-'a'] > i){
                 taken[result.back()-'a']=false;
                 result.pop_back();
             }
+
             result.push_back(ch);
-            taken[idx] = true;
+            taken[ind] = true;
         }
         return result;
     }
