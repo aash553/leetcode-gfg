@@ -1,7 +1,7 @@
 class MinStack {
 public:
 
-    stack<int>st;
+    stack<long long>st;
     long long mini = INT_MAX;
     MinStack() {
     }
