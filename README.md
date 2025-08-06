@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aash553/leetcode-gfg/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/aash553/leetcode-gfg/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aash553/leetcode-gfg/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/aash553/leetcode-gfg/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/aash553/leetcode-gfg/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/aash553/leetcode-gfg/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aash553/leetcode-gfg/tree/master/0215-kth-largest-element-in-an-array) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/aash553/leetcode-gfg/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/aash553/leetcode-gfg/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aash553/leetcode-gfg/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/aash553/leetcode-gfg/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/aash553/leetcode-gfg/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/aash553/leetcode-gfg/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/aash553/leetcode-gfg/tree/master/0486-predict-the-winner) |
@@ -389,12 +391,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/aash553/leetcode-gfg/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/aash553/leetcode-gfg/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/aash553/leetcode-gfg/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/aash553/leetcode-gfg/tree/master/2507-number-of-common-factors) |
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/aash553/leetcode-gfg/tree/master/0204-count-primes) |
 | [0875-longest-mountain-in-array](https://github.com/aash553/leetcode-gfg/tree/master/0875-longest-mountain-in-array) |
 | [2507-number-of-common-factors](https://github.com/aash553/leetcode-gfg/tree/master/2507-number-of-common-factors) |
 ## Trie
