@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/aash553/leetcode-gfg/tree/master/2050-count-good-numbers) |
 | [2491-smallest-even-multiple](https://github.com/aash553/leetcode-gfg/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/aash553/leetcode-gfg/tree/master/2507-number-of-common-factors) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/aash553/leetcode-gfg/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Hash Table
 |  |
 | ------- |
