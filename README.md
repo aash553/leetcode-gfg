@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aash553/leetcode-gfg/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/aash553/leetcode-gfg/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/aash553/leetcode-gfg/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aash553/leetcode-gfg/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/aash553/leetcode-gfg/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/aash553/leetcode-gfg/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aash553/leetcode-gfg/tree/master/0040-combination-sum-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aash553/leetcode-gfg/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aash553/leetcode-gfg/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aash553/leetcode-gfg/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/aash553/leetcode-gfg/tree/master/0209-minimum-size-subarray-sum) |
