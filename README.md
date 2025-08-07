@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/aash553/leetcode-gfg/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/aash553/leetcode-gfg/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aash553/leetcode-gfg/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/aash553/leetcode-gfg/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/aash553/leetcode-gfg/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/aash553/leetcode-gfg/tree/master/0093-restore-ip-addresses) |
 | [0139-word-break](https://github.com/aash553/leetcode-gfg/tree/master/0139-word-break) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/aash553/leetcode-gfg/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aash553/leetcode-gfg/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/aash553/leetcode-gfg/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/aash553/leetcode-gfg/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/aash553/leetcode-gfg/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aash553/leetcode-gfg/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/aash553/leetcode-gfg/tree/master/0060-permutation-sequence) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/aash553/leetcode-gfg/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/aash553/leetcode-gfg/tree/master/0258-add-digits) |
 | [2195-time-needed-to-buy-tickets](https://github.com/aash553/leetcode-gfg/tree/master/2195-time-needed-to-buy-tickets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aash553/leetcode-gfg/tree/master/2271-rearrange-array-elements-by-sign) |
