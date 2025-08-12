@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aash553/leetcode-gfg/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aash553/leetcode-gfg/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0486-predict-the-winner](https://github.com/aash553/leetcode-gfg/tree/master/0486-predict-the-winner) |
+| [0493-reverse-pairs](https://github.com/aash553/leetcode-gfg/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/aash553/leetcode-gfg/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aash553/leetcode-gfg/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/aash553/leetcode-gfg/tree/master/0542-01-matrix) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/aash553/leetcode-gfg/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/aash553/leetcode-gfg/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aash553/leetcode-gfg/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0493-reverse-pairs](https://github.com/aash553/leetcode-gfg/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aash553/leetcode-gfg/tree/master/0540-single-element-in-a-sorted-array) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/aash553/leetcode-gfg/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aash553/leetcode-gfg/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aash553/leetcode-gfg/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aash553/leetcode-gfg/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aash553/leetcode-gfg/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/aash553/leetcode-gfg/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/aash553/leetcode-gfg/tree/master/0948-sort-an-array) |
 ## Matrix
 |  |
@@ -586,9 +589,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/aash553/leetcode-gfg/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/aash553/leetcode-gfg/tree/master/0948-sort-an-array) |
 ## Counting Sort
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/aash553/leetcode-gfg/tree/master/0948-sort-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/aash553/leetcode-gfg/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/aash553/leetcode-gfg/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/aash553/leetcode-gfg/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
