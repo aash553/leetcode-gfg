@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aash553/leetcode-gfg/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aash553/leetcode-gfg/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/aash553/leetcode-gfg/tree/master/1046-max-consecutive-ones-iii) |
+| [1307-ugly-number-iii](https://github.com/aash553/leetcode-gfg/tree/master/1307-ugly-number-iii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aash553/leetcode-gfg/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aash553/leetcode-gfg/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Bit Manipulation
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/aash553/leetcode-gfg/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/aash553/leetcode-gfg/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/aash553/leetcode-gfg/tree/master/1013-fibonacci-number) |
+| [1307-ugly-number-iii](https://github.com/aash553/leetcode-gfg/tree/master/1307-ugly-number-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aash553/leetcode-gfg/tree/master/1370-count-number-of-nice-subarrays) |
 | [2050-count-good-numbers](https://github.com/aash553/leetcode-gfg/tree/master/2050-count-good-numbers) |
 | [2491-smallest-even-multiple](https://github.com/aash553/leetcode-gfg/tree/master/2491-smallest-even-multiple) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/aash553/leetcode-gfg/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/aash553/leetcode-gfg/tree/master/0258-add-digits) |
+| [1307-ugly-number-iii](https://github.com/aash553/leetcode-gfg/tree/master/1307-ugly-number-iii) |
 | [2491-smallest-even-multiple](https://github.com/aash553/leetcode-gfg/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/aash553/leetcode-gfg/tree/master/2507-number-of-common-factors) |
 ## Enumeration
@@ -570,4 +573,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/aash553/leetcode-gfg/tree/master/0547-number-of-provinces) |
+## Combinatorics
+|  |
+| ------- |
+| [1307-ugly-number-iii](https://github.com/aash553/leetcode-gfg/tree/master/1307-ugly-number-iii) |
 <!---LeetCode Topics End-->
