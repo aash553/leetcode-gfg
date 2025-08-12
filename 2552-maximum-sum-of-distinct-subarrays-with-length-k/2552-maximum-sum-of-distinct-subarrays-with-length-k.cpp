@@ -5,7 +5,8 @@ public:
        long long sum = 0 ;
         long long maxi = LLONG_MIN;
         int l =0;
-        for(int r =0 ;r<nums.size();r++){
+        int r = 0;
+        for(int i =0 ;i<nums.size();i++){
             mpp[nums[r]]++;
             sum += nums[r];
             if(r-l+1 > k){
@@ -18,6 +19,7 @@ public:
         if(r-l+1 == k && mpp.size() == k){
             maxi = max(maxi,sum);
         }
+        r++;
         }
          return (maxi == LLONG_MIN) ? 0 : maxi;
     }
