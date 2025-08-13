@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aash553/leetcode-gfg/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/aash553/leetcode-gfg/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aash553/leetcode-gfg/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/aash553/leetcode-gfg/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1813-maximum-erasure-value](https://github.com/aash553/leetcode-gfg/tree/master/1813-maximum-erasure-value) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/aash553/leetcode-gfg/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aash553/leetcode-gfg/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/aash553/leetcode-gfg/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aash553/leetcode-gfg/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/aash553/leetcode-gfg/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aash553/leetcode-gfg/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2689-rearranging-fruits](https://github.com/aash553/leetcode-gfg/tree/master/2689-rearranging-fruits) |
 | [3934-coupon-code-validator](https://github.com/aash553/leetcode-gfg/tree/master/3934-coupon-code-validator) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/aash553/leetcode-gfg/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aash553/leetcode-gfg/tree/master/1370-count-number-of-nice-subarrays) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/aash553/leetcode-gfg/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1813-maximum-erasure-value](https://github.com/aash553/leetcode-gfg/tree/master/1813-maximum-erasure-value) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/aash553/leetcode-gfg/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aash553/leetcode-gfg/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
