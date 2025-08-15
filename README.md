@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/aash553/leetcode-gfg/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/aash553/leetcode-gfg/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/aash553/leetcode-gfg/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/aash553/leetcode-gfg/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/aash553/leetcode-gfg/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/aash553/leetcode-gfg/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/aash553/leetcode-gfg/tree/master/0258-add-digits) |
+| [0342-power-of-four](https://github.com/aash553/leetcode-gfg/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/aash553/leetcode-gfg/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/aash553/leetcode-gfg/tree/master/0507-perfect-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/aash553/leetcode-gfg/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/aash553/leetcode-gfg/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aash553/leetcode-gfg/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/aash553/leetcode-gfg/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/aash553/leetcode-gfg/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/aash553/leetcode-gfg/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/aash553/leetcode-gfg/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/aash553/leetcode-gfg/tree/master/2050-count-good-numbers) |
