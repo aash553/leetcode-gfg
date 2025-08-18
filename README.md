@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/aash553/leetcode-gfg/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/aash553/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aash553/leetcode-gfg/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0724-find-pivot-index](https://github.com/aash553/leetcode-gfg/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/aash553/leetcode-gfg/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aash553/leetcode-gfg/tree/master/0780-max-chunks-to-make-sorted) |
 | [0875-longest-mountain-in-array](https://github.com/aash553/leetcode-gfg/tree/master/0875-longest-mountain-in-array) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aash553/leetcode-gfg/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/aash553/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/aash553/leetcode-gfg/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aash553/leetcode-gfg/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/aash553/leetcode-gfg/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/aash553/leetcode-gfg/tree/master/1046-max-consecutive-ones-iii) |
