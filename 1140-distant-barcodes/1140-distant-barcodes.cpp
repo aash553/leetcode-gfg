@@ -1,35 +1,36 @@
 class Solution {
 public:
     vector<int> rearrangeBarcodes(vector<int>& barcodes) {
-        int n = barcodes.size();
-        unordered_map<int,int>freq; // first->element second->freq;
+        
+        map<int,int>freq;
 
-        for(auto x : barcodes){ // we got the frequencies
+        for(auto x : barcodes){
             freq[x]++;
         }
-        vector<pair<int,int>>freqsort;
+
+        priority_queue<pair<int,int>>pq;
         for(auto it : freq){
-            freqsort.push_back(it);
+            pq.push({it.second,it.first});
         }
 
-        sort(freqsort.begin(),freqsort.end(),[](auto &a, auto &b){
-            return a.second>b.second;
-        });
+        vector<int>result;
 
-        vector<int>result(n);
+        while(!pq.empty()){
+            auto first = pq.top(); pq.pop();
+            if(result.empty() || result.back() != first.second){
+                result.push_back(first.second);
+                first.first--;
+            }else{
+                auto second = pq.top(); pq.pop();
+                result.push_back(second.second);
+                second.first--;
+                //once second is pushed we push first again
+                pq.push(first);
 
-        int index = 0 ;
-        for(auto it : freqsort){
-            int barcode = it .first;
-            int count  = it . second;
-
-            while(count > 0){
-                result[index] = barcode;
-                index += 2;
-
-                if(index >= n ) index = 1;
-                count --;
+                if(second.first>0)pq.push(second);
+                continue;
             }
+                if(first.first>0) pq.push(first);
         }
         return result;
     }
