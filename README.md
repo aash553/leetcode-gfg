@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/aash553/leetcode-gfg/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aash553/leetcode-gfg/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/aash553/leetcode-gfg/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/aash553/leetcode-gfg/tree/master/0678-valid-parenthesis-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/aash553/leetcode-gfg/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/aash553/leetcode-gfg/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aash553/leetcode-gfg/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/aash553/leetcode-gfg/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/aash553/leetcode-gfg/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/aash553/leetcode-gfg/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/aash553/leetcode-gfg/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aash553/leetcode-gfg/tree/master/0780-max-chunks-to-make-sorted) |
 | [0943-sum-of-subarray-minimums](https://github.com/aash553/leetcode-gfg/tree/master/0943-sum-of-subarray-minimums) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/aash553/leetcode-gfg/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/aash553/leetcode-gfg/tree/master/0316-remove-duplicate-letters) |
 | [0435-non-overlapping-intervals](https://github.com/aash553/leetcode-gfg/tree/master/0435-non-overlapping-intervals) |
 | [0670-maximum-swap](https://github.com/aash553/leetcode-gfg/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/aash553/leetcode-gfg/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aash553/leetcode-gfg/tree/master/0780-max-chunks-to-make-sorted) |
 | [1140-distant-barcodes](https://github.com/aash553/leetcode-gfg/tree/master/1140-distant-barcodes) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/aash553/leetcode-gfg/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/aash553/leetcode-gfg/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/aash553/leetcode-gfg/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/aash553/leetcode-gfg/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/aash553/leetcode-gfg/tree/master/0678-valid-parenthesis-string) |
 | [0875-longest-mountain-in-array](https://github.com/aash553/leetcode-gfg/tree/master/0875-longest-mountain-in-array) |
 | [0943-sum-of-subarray-minimums](https://github.com/aash553/leetcode-gfg/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/aash553/leetcode-gfg/tree/master/1013-fibonacci-number) |
