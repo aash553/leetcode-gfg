@@ -11,7 +11,7 @@ public:
         if(n<=1) return n;
         while(r<n){
 
-            if(hash[s[r]] != -1 || hash[s[r]] >= l){
+            if(hash[s[r]] != -1 && hash[s[r]] >= l){
                l = hash[s[r]]+1;
             }
             int len = r-l+1;
