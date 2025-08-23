@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/aash553/leetcode-gfg/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/aash553/leetcode-gfg/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/aash553/leetcode-gfg/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/aash553/leetcode-gfg/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/aash553/leetcode-gfg/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aash553/leetcode-gfg/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/aash553/leetcode-gfg/tree/master/0056-merge-intervals) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aash553/leetcode-gfg/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aash553/leetcode-gfg/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/aash553/leetcode-gfg/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/aash553/leetcode-gfg/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/aash553/leetcode-gfg/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/aash553/leetcode-gfg/tree/master/0093-restore-ip-addresses) |
 | [0139-word-break](https://github.com/aash553/leetcode-gfg/tree/master/0139-word-break) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/aash553/leetcode-gfg/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/aash553/leetcode-gfg/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aash553/leetcode-gfg/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/aash553/leetcode-gfg/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/aash553/leetcode-gfg/tree/master/0164-maximum-gap) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/aash553/leetcode-gfg/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/aash553/leetcode-gfg/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/aash553/leetcode-gfg/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/aash553/leetcode-gfg/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/aash553/leetcode-gfg/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/aash553/leetcode-gfg/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aash553/leetcode-gfg/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
