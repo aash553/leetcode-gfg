@@ -1,25 +1,16 @@
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
-        //brute force 
-        vector<vector<int>>ans;
         int n = intervals.size();
         sort(intervals.begin(),intervals.end());
+        vector<vector<int>>ans;
         for(int i =0;i<n;i++){
-        int start = intervals[i][0];
-        int end = intervals[i][1];
-        //if there exist an interval already
-        if(!ans.empty() &&  end <= ans.back()[1]){
-            continue;
-        }
-        for(int j = i+1 ;j<n;j++){
-            if(intervals[j][0] <= end){
-                end = max(intervals[j][1],end);
+            //this is to start the new interval 
+            if(ans.empty() || intervals[i][0] > ans.back()[1]){
+                ans.push_back(intervals[i]);
             }else{
-                break;
-            }
-        }
-        ans.push_back({start,end});
+                ans.back()[1] = max(ans.back()[1],intervals[i][1]);
+            }     
         }
         return ans;
     }
