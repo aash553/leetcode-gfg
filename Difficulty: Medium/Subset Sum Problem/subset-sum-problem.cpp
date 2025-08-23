@@ -1,30 +1,18 @@
 class Solution {
   public:
-  
-  void fun(int ind, int sum , vector<int>&arr, vector<int>&ds ,bool &found){
-
-      if(sum==0){
-          found = true;
-          return;
-      }
-      for(int i=ind;i<arr.size();i++){
-          if(i>ind && arr[i]==arr[i-1])continue;
-          if(arr[i]>sum)break;
-          
-          ds.push_back(arr[i]);
-          fun(i+1,sum-arr[i],arr,ds,found);
-          ds.pop_back();
-          
-          if(found) return;
-      }
-  }
-  
-  
+   
+   bool solve(vector<int>& arr,int sum,int n ){
+       
+       if(sum==0) return true;
+       if(n==0) return false;
+           if(arr[n-1]<=sum){
+               //to include or not include
+              return  solve(arr,sum-arr[n-1],n-1) || solve(arr,sum,n-1);
+           }
+              return  solve(arr,sum,n-1);
+   }
     bool isSubsetSum(vector<int>& arr, int sum) {
-         sort(arr.begin(), arr.end());
-        bool found = false;
-        vector<int>ds;
-        fun(0,sum,arr,ds,found);
-        return found;
+        int n = arr.size();
+        return solve(arr,sum,n);
     }
 };
