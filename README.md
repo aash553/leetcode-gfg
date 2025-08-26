@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/aash553/leetcode-gfg/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0486-predict-the-winner](https://github.com/aash553/leetcode-gfg/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/aash553/leetcode-gfg/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/aash553/leetcode-gfg/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/aash553/leetcode-gfg/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aash553/leetcode-gfg/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/aash553/leetcode-gfg/tree/master/0542-01-matrix) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/aash553/leetcode-gfg/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/aash553/leetcode-gfg/tree/master/0093-restore-ip-addresses) |
 | [0216-combination-sum-iii](https://github.com/aash553/leetcode-gfg/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/aash553/leetcode-gfg/tree/master/0494-target-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/aash553/leetcode-gfg/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/aash553/leetcode-gfg/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/aash553/leetcode-gfg/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/aash553/leetcode-gfg/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/aash553/leetcode-gfg/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/aash553/leetcode-gfg/tree/master/0678-valid-parenthesis-string) |
 | [0875-longest-mountain-in-array](https://github.com/aash553/leetcode-gfg/tree/master/0875-longest-mountain-in-array) |
