@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/aash553/leetcode-gfg/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/aash553/leetcode-gfg/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/aash553/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/aash553/leetcode-gfg/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aash553/leetcode-gfg/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/aash553/leetcode-gfg/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/aash553/leetcode-gfg/tree/master/0733-flood-fill) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/aash553/leetcode-gfg/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aash553/leetcode-gfg/tree/master/0540-single-element-in-a-sorted-array) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/aash553/leetcode-gfg/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/aash553/leetcode-gfg/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aash553/leetcode-gfg/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aash553/leetcode-gfg/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/aash553/leetcode-gfg/tree/master/1046-max-consecutive-ones-iii) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/aash553/leetcode-gfg/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aash553/leetcode-gfg/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/aash553/leetcode-gfg/tree/master/0567-permutation-in-string) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/aash553/leetcode-gfg/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aash553/leetcode-gfg/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/aash553/leetcode-gfg/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/aash553/leetcode-gfg/tree/master/1034-subarrays-with-k-different-integers) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/aash553/leetcode-gfg/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/aash553/leetcode-gfg/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/aash553/leetcode-gfg/tree/master/0678-valid-parenthesis-string) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/aash553/leetcode-gfg/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0875-longest-mountain-in-array](https://github.com/aash553/leetcode-gfg/tree/master/0875-longest-mountain-in-array) |
 | [0943-sum-of-subarray-minimums](https://github.com/aash553/leetcode-gfg/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/aash553/leetcode-gfg/tree/master/1013-fibonacci-number) |
@@ -669,4 +673,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aash553/leetcode-gfg/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/aash553/leetcode-gfg/tree/master/0493-reverse-pairs) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/aash553/leetcode-gfg/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/aash553/leetcode-gfg/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
