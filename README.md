@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aash553/leetcode-gfg/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aash553/leetcode-gfg/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/aash553/leetcode-gfg/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/aash553/leetcode-gfg/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/aash553/leetcode-gfg/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/aash553/leetcode-gfg/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/aash553/leetcode-gfg/tree/master/0093-restore-ip-addresses) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aash553/leetcode-gfg/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/aash553/leetcode-gfg/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/aash553/leetcode-gfg/tree/master/0045-jump-game-ii) |
 | [0316-remove-duplicate-letters](https://github.com/aash553/leetcode-gfg/tree/master/0316-remove-duplicate-letters) |
 | [0435-non-overlapping-intervals](https://github.com/aash553/leetcode-gfg/tree/master/0435-non-overlapping-intervals) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/aash553/leetcode-gfg/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/aash553/leetcode-gfg/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/aash553/leetcode-gfg/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/aash553/leetcode-gfg/tree/master/0203-remove-linked-list-elements) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/aash553/leetcode-gfg/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aash553/leetcode-gfg/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/aash553/leetcode-gfg/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/aash553/leetcode-gfg/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/aash553/leetcode-gfg/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/aash553/leetcode-gfg/tree/master/0070-climbing-stairs) |
