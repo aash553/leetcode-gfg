@@ -1,37 +1,35 @@
 class Solution {
 public:
-
-vector<vector<int>>t;
-    bool solve(string &s, string &p, int m , int n){
-        //base condition 
-        if(m==0 && n==0) return true;
-        if(m>0 && n==0) return false;
-        if(n>0 && m==0){
-            for(int i=0;i<n;i++){
-                if(p[i] != '*'){
-                    return false;
-                }
-            }
-        return true;
-        }
-
-        if(t[m][n] != -1) return t[m][n];
-        //choice diagram;
-        if(s[m-1] == p[n-1] || p[n-1] == '?'){
-            return t[m][n] = solve(s,p,m-1,n-1);
-        }
-
-        if(p[n-1] == '*'){
-            return t[m][n] =  solve(s,p,m-1,n) || solve(s,p,m,n-1);
-        }
-        return t[m][n] = false;
-    }
-
-
     bool isMatch(string s, string p) {
+        
         int m = s.length();
         int n = p.length();
-        t.assign(m+1,vector<int>(n+1,-1));
-        return solve(s,p,m,n);
+
+        vector<vector<bool>>t(m+1,vector<bool>(n+1,false));
+        t[0][0] = true;
+        for(int i =1;i<=m;i++){
+            t[i][0] = false;
+        }
+
+      bool flag = true;
+        for(int j = 1; j <= n; j++){
+            if(p[j-1] != '*'){
+                flag = false;
+            }
+            t[0][j] = flag;
+        }
+
+        for(int i =1;i<m+1;i++){
+            for(int j=1;j<n+1;j++){
+                if(s[i-1] == p[j-1] || p[j-1] == '?'){
+                    t[i][j] = t[i-1][j-1];
+                }else if(p[j-1] == '*'){
+                    t[i][j] = t[i-1][j] || t[i][j-1];
+                }else{
+                    t[i][j] = false;
+                }
+            }
+        }
+        return t[m][n];
     }
 };
