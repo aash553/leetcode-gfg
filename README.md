@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/aash553/leetcode-gfg/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/aash553/leetcode-gfg/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/aash553/leetcode-gfg/tree/master/0076-minimum-window-substring) |
+| [0087-scramble-string](https://github.com/aash553/leetcode-gfg/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/aash553/leetcode-gfg/tree/master/0093-restore-ip-addresses) |
 | [0139-word-break](https://github.com/aash553/leetcode-gfg/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/aash553/leetcode-gfg/tree/master/0151-reverse-words-in-a-string) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/aash553/leetcode-gfg/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/aash553/leetcode-gfg/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/aash553/leetcode-gfg/tree/master/0070-climbing-stairs) |
+| [0087-scramble-string](https://github.com/aash553/leetcode-gfg/tree/master/0087-scramble-string) |
 | [0118-pascals-triangle](https://github.com/aash553/leetcode-gfg/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aash553/leetcode-gfg/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aash553/leetcode-gfg/tree/master/0124-binary-tree-maximum-path-sum) |
