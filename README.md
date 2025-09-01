@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aash553/leetcode-gfg/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/aash553/leetcode-gfg/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1813-maximum-erasure-value](https://github.com/aash553/leetcode-gfg/tree/master/1813-maximum-erasure-value) |
+| [1917-maximum-average-pass-ratio](https://github.com/aash553/leetcode-gfg/tree/master/1917-maximum-average-pass-ratio) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/aash553/leetcode-gfg/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aash553/leetcode-gfg/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2195-time-needed-to-buy-tickets](https://github.com/aash553/leetcode-gfg/tree/master/2195-time-needed-to-buy-tickets) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/aash553/leetcode-gfg/tree/master/0780-max-chunks-to-make-sorted) |
 | [1140-distant-barcodes](https://github.com/aash553/leetcode-gfg/tree/master/1140-distant-barcodes) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/aash553/leetcode-gfg/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1917-maximum-average-pass-ratio](https://github.com/aash553/leetcode-gfg/tree/master/1917-maximum-average-pass-ratio) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aash553/leetcode-gfg/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2689-rearranging-fruits](https://github.com/aash553/leetcode-gfg/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aash553/leetcode-gfg/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/aash553/leetcode-gfg/tree/master/1127-last-stone-weight) |
 | [1140-distant-barcodes](https://github.com/aash553/leetcode-gfg/tree/master/1140-distant-barcodes) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/aash553/leetcode-gfg/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1917-maximum-average-pass-ratio](https://github.com/aash553/leetcode-gfg/tree/master/1917-maximum-average-pass-ratio) |
 ## Counting
 |  |
 | ------- |
