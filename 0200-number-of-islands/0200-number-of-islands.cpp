@@ -1,11 +1,11 @@
 class Solution {
 public:
-
     void bfs(int row,int col,vector<vector<char>>& grid){
         int n = grid.size();
         int m = grid[0].size();
         queue<pair<int,int>>q;
         q.push({row,col});
+        grid[row][col] = '0';
 
         while(!q.empty()){
             int row = q.front().first;
