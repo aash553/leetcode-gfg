@@ -5,7 +5,6 @@ public:
         int m = grid[0].size();
         queue<pair<int,int>>q;
         q.push({row,col});
-        grid[row][col] = '0';
 
         while(!q.empty()){
             int row = q.front().first;
