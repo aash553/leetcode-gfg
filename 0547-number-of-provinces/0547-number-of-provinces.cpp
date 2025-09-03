@@ -1,11 +1,19 @@
 class Solution {
 public:
 
-    void dfs(int node , vector<int>&vis, vector<vector<int>>&isConnected){
+    void bfs(int node , vector<int>&vis, vector<vector<int>>&isConnected){
         vis[node] = 1;
-        for(int j =0 ;j<isConnected.size();j++){
-            if(isConnected[node][j] == 1 && !vis[j]){
-                dfs(j,vis,isConnected);
+        queue<int>q;
+        q.push(node);
+        while(!q.empty()){
+            int curr = q.front();
+            q.pop();
+
+            for(int j =0;j<isConnected.size();j++){
+                if(isConnected[curr][j] == 1 && !vis[j]){
+                    vis[j] = 1;
+                    q.push(j);
+                }
             }
         }
     }
@@ -18,7 +26,7 @@ public:
             for(int i =0;i<n;i++){
             if(!vis[i]){
                 cnt++;
-               dfs(i,vis,isConnected);
+               bfs(i,vis,isConnected);
             }
             }
             return cnt;
