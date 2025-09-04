@@ -596,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/aash553/leetcode-gfg/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/aash553/leetcode-gfg/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/aash553/leetcode-gfg/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/aash553/leetcode-gfg/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/aash553/leetcode-gfg/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/aash553/leetcode-gfg/tree/master/0542-01-matrix) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/aash553/leetcode-gfg/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aash553/leetcode-gfg/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/aash553/leetcode-gfg/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/aash553/leetcode-gfg/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0543-diameter-of-binary-tree) |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/aash553/leetcode-gfg/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/aash553/leetcode-gfg/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/aash553/leetcode-gfg/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/aash553/leetcode-gfg/tree/master/0820-find-eventual-safe-states) |
@@ -723,5 +726,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/aash553/leetcode-gfg/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/aash553/leetcode-gfg/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
