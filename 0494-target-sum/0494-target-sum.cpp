@@ -1,26 +1,30 @@
 class Solution {
 public:
-
-    vector<vector<int>>t;
-    int solve(vector<int>& nums,int i , int point){
-        int n = nums.size();
-        if(i==n){
-           return (point==0) ? 1 : 0;
-        }
-        if(point < 0) return 0;
-        if(t[i][point] != -1) return t[i][point];
-        int include = solve(nums,i+1,point-nums[i]);
-        int exclude = solve(nums,i+1,point);
-
-        return t[i][point] = include + exclude;
-    }
     int findTargetSumWays(vector<int>& nums, int target) {
-        int n = nums.size();
-        int total = 0;
-        for (int n : nums) total += n;
-        if((total+target) % 2 != 0 || abs(target) > total ) return 0;
-        int point = (total+target)/2;
-        t.assign(n+1,vector<int>(point+1,-1));
-        return solve(nums,0,point);
+       int n = nums.size();
+       int total = 0;
+       for(int n: nums) total +=n;
+       if((total+target)%2 != 0 || abs(target) > total) return 0;
+       int point = (total + target)/2;
+       //initalization
+       vector<vector<int>>t(n+1,vector<int>(point+1,0));
+       t[0][0] = 1;
+       for(int i =1;i<=n;i++){
+        if(nums[i-1] == 0){
+            t[i][0] = 2 * t[i-1][0];
+        }else{
+            t[i][0] = t[i-1][0];
+        }
+       }
+       for(int i =1;i<n+1;i++){
+        for(int j=1;j<point+1;j++){
+            if(nums[i-1] <= j){
+                t[i][j] = t[i-1][j-nums[i-1]] + t[i-1][j];
+            }else{
+                t[i][j] = t[i-1][j];
+            }
+        }
+       }
+       return t[n][point];
     }
 };
