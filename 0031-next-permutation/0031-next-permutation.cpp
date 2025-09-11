@@ -1,29 +1,28 @@
 class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
-        //finding the break point 
-        int ind = -1;
+        int index = -1;
         int n = nums.size();
-        for(int i =n-2 ; i >=0;i--){
-            if (nums[i] < nums[i+1] ){
-                ind = i;
+        //finding the break point
+        for(int i = n-2 ;i>=0; i--){
+            if(nums[i] < nums[i+1]){
+                index = i;
                 break;
             }
         }
-        if(ind == -1){
+        //if no breakpoint 
+        if(index == -1){
             reverse(nums.begin(),nums.end());
             return;
         }
 
-        //find the element closest to ind
-        for(int i = n-1 ;i>ind ;i--){
-            if(nums[i] > nums[ind]){
-                swap(nums[i],nums[ind]);
+        //once the breakpoint is founded
+        for(int i=n-1;i>index; i--){
+            if(nums[i] > nums[index]){
+                swap(nums[i],nums[index]);
                 break;
             }
         }
-
-        //reverse the remaining half
-        reverse(nums.begin()+ind+1,nums.end());
+        reverse(nums.begin()+index+1, nums.end());
     }
 };
