@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/aash553/leetcode-gfg/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/aash553/leetcode-gfg/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/aash553/leetcode-gfg/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/aash553/leetcode-gfg/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/aash553/leetcode-gfg/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aash553/leetcode-gfg/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aash553/leetcode-gfg/tree/master/0084-largest-rectangle-in-histogram) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aash553/leetcode-gfg/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/aash553/leetcode-gfg/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/aash553/leetcode-gfg/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/aash553/leetcode-gfg/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aash553/leetcode-gfg/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/aash553/leetcode-gfg/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/aash553/leetcode-gfg/tree/master/0189-rotate-array) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/aash553/leetcode-gfg/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/aash553/leetcode-gfg/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aash553/leetcode-gfg/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/aash553/leetcode-gfg/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aash553/leetcode-gfg/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/aash553/leetcode-gfg/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/aash553/leetcode-gfg/tree/master/0169-majority-element) |
