@@ -1,59 +1,48 @@
 class Solution {
   public:
   
-  
-  
-  int sorty(vector<int> &arr , int s , int e){
-      int inv =0;
-      int mid = s+(e-s)/2;
-      int len1 = mid -s +1;
-      int len2 = e -mid;
-      
-      int * first = new int[len1];
-      int * second = new int[len2];
-      
-      int main = s;
-      for(int i =0;i<len1;i++){
-          first[i] = arr[main++];
-      }
-      main = mid+1;
-      for(int i =0;i<len2 ; i++){
-          second[i] = arr[main++];
-      }
-      
-      int index1=0;
-      int index2 =0;
-      main = s;
-      
-      while(index1<len1 && index2< len2){
-          if(first[index1] <= second[index2]){
-              arr[main++] = first[index1++];
+  int merge(vector<int>&arr,int low , int mid , int high ){
+      int left = low;
+      int right = mid + 1;
+      vector<int>temp;
+      int cnt = 0;
+      while(left <= mid && right <= high){
+          if(arr[left] <= arr[right]){
+              temp.push_back(arr[left]);
+              left++;
           }else{
-              arr[main++] = second[index2++];
-              inv += (len1-index1);
+              temp.push_back(arr[right]);
+              cnt += (mid-left+1);
+              right++;
           }
       }
-      while(index1 < len1){
-          arr[main++] = first[index1++ ]; 
+      while(left <= mid){
+          temp.push_back(arr[left]);
+          left++;
       }
-      while(index2 < len2){
-          arr[main++] = second[index2++];
+      while(right <= high){
+          temp.push_back(arr[right]);
+          right++;
       }
-      return inv;
+      for(int i = low ; i <= high ; i++){
+          arr[i] = temp[i-low];
+      }
+      return cnt;
   }
   
-  
-  int mergesort(vector<int> &arr , int s , int e){
-      int inv = 0;
-      if(s<e){
-      int mid = s+(e-s)/2;
-      inv += mergesort(arr,s,mid);
-      inv += mergesort(arr,mid+1,e);
-      inv += sorty(arr,s,e);
-      }
-      return inv;
+  int mergesort(vector<int>&arr, int low , int high){
+      //base case 
+      int cnt = 0;
+      if(low >= high)return cnt;
+      int mid = low + (high-low)/2;
+      cnt += mergesort(arr,low,mid);
+      cnt += mergesort(arr,mid+1,high);
+      cnt += merge(arr,low,mid,high);
+      return cnt;
   }
+  
     int inversionCount(vector<int> &arr) {
-        return mergesort(arr,0,arr.size()-1);
+        int n = arr.size();
+       return mergesort(arr,0,n-1);
     }
 };
