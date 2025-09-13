@@ -1,12 +1,10 @@
 class Solution {
 public:
-
     int sorty(vector<int> &arr, int s, int e) {
         int inv = 0;
         int mid = s + (e - s) / 2;
         int len1 = mid - s + 1;
         int len2 = e - mid;
-
         // Count reverse pairs before merging
         int rightIndex = mid + 1;
         for (int i = s; i <= mid; i++) {
@@ -15,7 +13,6 @@ public:
             }
             inv += (rightIndex - (mid + 1));
         }
-
         // Merge step
         int *first = new int[len1];
         int *second = new int[len2];
@@ -63,7 +60,6 @@ public:
         }
         return inv;
     }
-
     int reversePairs(vector<int> &nums) {
         return mergesort(nums, 0, nums.size() - 1);
     }
