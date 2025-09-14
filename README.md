@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aash553/leetcode-gfg/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/aash553/leetcode-gfg/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aash553/leetcode-gfg/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/aash553/leetcode-gfg/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/aash553/leetcode-gfg/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/aash553/leetcode-gfg/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/aash553/leetcode-gfg/tree/master/0152-maximum-product-subarray) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aash553/leetcode-gfg/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aash553/leetcode-gfg/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/aash553/leetcode-gfg/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/aash553/leetcode-gfg/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/aash553/leetcode-gfg/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/aash553/leetcode-gfg/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/aash553/leetcode-gfg/tree/master/0205-isomorphic-strings) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aash553/leetcode-gfg/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/aash553/leetcode-gfg/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aash553/leetcode-gfg/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/aash553/leetcode-gfg/tree/master/0547-number-of-provinces) |
