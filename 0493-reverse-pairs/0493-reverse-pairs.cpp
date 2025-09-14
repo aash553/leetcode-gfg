@@ -1,66 +1,60 @@
 class Solution {
 public:
-    int sorty(vector<int> &arr, int s, int e) {
-        int inv = 0;
-        int mid = s + (e - s) / 2;
-        int len1 = mid - s + 1;
-        int len2 = e - mid;
-        // Count reverse pairs before merging
-        int rightIndex = mid + 1;
-        for (int i = s; i <= mid; i++) {
-            while (rightIndex <= e && (long long)arr[i] > 2LL * arr[rightIndex]) {
-                rightIndex++;
-            }
-            inv += (rightIndex - (mid + 1));
-        }
-        // Merge step
-        int *first = new int[len1];
-        int *second = new int[len2];
 
-        int main = s;
-        for (int i = 0; i < len1; i++) {
-            first[i] = arr[main++];
-        }
-        main = mid + 1;
-        for (int i = 0; i < len2; i++) {
-            second[i] = arr[main++];
-        }
+    void merge(vector<int>&nums , int low , int mid , int high){
+        int left = low;
+        int right = mid+1;
+        vector<int>temp;
+        int cnt = 0;
+        while(left<= mid && right <=high){
+            if(nums[left] < nums[right]){
+                temp.push_back(nums[left]);
+                left++;
+            }else{
+                temp.push_back(nums[right]);
+                right++;
 
-        int index1 = 0, index2 = 0;
-        main = s;
-
-        while (index1 < len1 && index2 < len2) {
-            if (first[index1] <= second[index2]) {
-                arr[main++] = first[index1++];
-            } else {
-                arr[main++] = second[index2++];
-            }
+                }
         }
-
-        while (index1 < len1) {
-            arr[main++] = first[index1++];
+        while(left <= mid){
+            temp.push_back(nums[left]);
+            left++;
         }
-        while (index2 < len2) {
-            arr[main++] = second[index2++];
+        while(right <= high){
+            temp.push_back(nums[right]);
+            right++;
         }
-
-        delete[] first;
-        delete[] second;
-
-        return inv;
+        for(int i = low; i<=high ;i++){
+            nums[i] = temp[i-low];
+        }
     }
 
-    int mergesort(vector<int> &arr, int s, int e) {
-        int inv = 0;
-        if (s < e) {
-            int mid = s + (e - s) / 2;
-            inv += mergesort(arr, s, mid);
-            inv += mergesort(arr, mid + 1, e);
-            inv += sorty(arr, s, e);
+    int countpair(vector<int>&nums , int low, int mid ,int high){
+        int cnt = 0;
+        int right = mid + 1;
+        for(int i =low ;i<=mid ;i++){
+            while(right <= high && (long long) nums[i] > 2LL * nums[right]){
+                right ++ ;
+            }
+                cnt += (right - (mid +1));
         }
-        return inv;
+        return cnt;
     }
-    int reversePairs(vector<int> &nums) {
-        return mergesort(nums, 0, nums.size() - 1);
+
+   int mergesort(vector<int>&nums , int low, int high){
+    //base case 
+    if(low >= high) return 0;
+    int mid = low+(high-low)/2;
+    int cnt = 0;
+    cnt += mergesort(nums,low,mid);
+    cnt += mergesort(nums,mid+1,high);
+    cnt += countpair(nums,low,mid,high);
+    merge(nums,low,mid,high);
+    return cnt ;
+   }
+
+    int reversePairs(vector<int>& nums) {
+        int n = nums.size();
+        return mergesort(nums,0,n-1);
     }
 };
