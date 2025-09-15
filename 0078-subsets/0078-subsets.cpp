@@ -1,25 +1,23 @@
 class Solution {
 public:
 
-    void fun(int ind, vector<int>&arr , vector<int>&ds ,int n, vector<vector<int>>&ans){
-        if(ind == n){
+    void solve(vector<int>& nums , int i , int sum ,   vector<int>&ds, vector<vector<int>>&ans){
+        int n = nums.size();
+        //bsae case 
+        if(i==n){
             ans.push_back(ds);
             return;
         }
-        //if picking the ds 
-        ds.push_back(arr[ind]);
-        fun(ind+1,arr,ds,n,ans);
+        ds.push_back(nums[i]);
+        solve(nums,i+1,nums[i]+sum,ds,ans);
         ds.pop_back();
-
-        //if not picking the element in the that particular index
-        fun(ind+1,arr,ds,n,ans);
+        solve(nums,i+1,sum,ds,ans);
     }
 
     vector<vector<int>> subsets(vector<int>& nums) {
-        int n = nums.size();
         vector<vector<int>>ans;
         vector<int>ds;
-        fun(0,nums,ds,n,ans);
+        solve(nums,0,0,ds,ans);
         return ans;
     }
 };
