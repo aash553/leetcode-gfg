@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-time-needed-to-buy-tickets](https://github.com/aash553/leetcode-gfg/tree/master/2195-time-needed-to-buy-tickets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aash553/leetcode-gfg/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/aash553/leetcode-gfg/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/aash553/leetcode-gfg/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aash553/leetcode-gfg/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2689-rearranging-fruits](https://github.com/aash553/leetcode-gfg/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aash553/leetcode-gfg/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aash553/leetcode-gfg/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aash553/leetcode-gfg/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aash553/leetcode-gfg/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/aash553/leetcode-gfg/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/aash553/leetcode-gfg/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1917-maximum-average-pass-ratio](https://github.com/aash553/leetcode-gfg/tree/master/1917-maximum-average-pass-ratio) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aash553/leetcode-gfg/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/aash553/leetcode-gfg/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/aash553/leetcode-gfg/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aash553/leetcode-gfg/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aash553/leetcode-gfg/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/aash553/leetcode-gfg/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aash553/leetcode-gfg/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/aash553/leetcode-gfg/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/aash553/leetcode-gfg/tree/master/2689-rearranging-fruits) |
 | [3934-coupon-code-validator](https://github.com/aash553/leetcode-gfg/tree/master/3934-coupon-code-validator) |
 ## Monotonic Stack
