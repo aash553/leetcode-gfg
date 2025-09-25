@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<int>>t;
-    int solve(int i , int j , string word1, string word2){
+    int solve(int i , int j , string &word1, string &word2){
     //base case 
     if(i<0) return j+1;
     if(j<0) return i+1;
