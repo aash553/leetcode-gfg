@@ -1,32 +1,31 @@
 class Solution {
 public:
-
     vector<vector<int>>t;
-    bool subset(vector<int>& nums,int i, int target){
+    bool solve(vector<int>&nums , int i , int target){
+        //base case 
         int n = nums.size();
-        vector<vector<bool>>t(n+1,vector<bool>(target+1,false));
-        for(int i =0;i<=n;i++){
-           t[i][0] = true;
-        }
-        for(int i=1;i<n+1;i++){
-            for(int j=1;j<target+1;j++){
-                if(nums[i-1] <= j){
-                    t[i][j] = t[i-1][j-nums[i-1]] || t[i-1][j];
-                }else{
-                    t[i][j] = t[i-1][j];
-                }
-            }
-        }
-        return t[n][target];
+        if( target == 0) return true;
+        if ( i >= n || target < 0 ) return false;
+
+        if(t[i][target] != -1) return t[i][target];
+
+        if(solve(nums,i+1,target-nums[i])) return true;
+        if(solve(nums,i+1,target)) return true;
+
+        return t[i][target] =  false;
     }
 
     bool canPartition(vector<int>& nums) {
-        
         int n = nums.size();
         int sum = 0;
-        for(int n : nums) sum+=n;
-        if(sum % 2 != 0) return false;
-        int target = sum /2;
-        return subset(nums,0,target);
+        for(int num : nums) sum += num;
+
+        if(sum %2 != 0) return false;
+
+        int target =sum/2;
+
+        t.assign(n+1,vector<int>(target+1,-1));
+
+        return solve(nums,0,target);
     }
 };
