@@ -1,20 +1,5 @@
 class Solution {
 public:
-    vector<vector<int>>t;
-    bool solve(vector<int>&nums , int i , int target){
-        //base case 
-        int n = nums.size();
-        if( target == 0) return true;
-        if ( i >= n || target < 0 ) return false;
-
-        if(t[i][target] != -1) return t[i][target];
-
-        if(solve(nums,i+1,target-nums[i])) return true;
-        if(solve(nums,i+1,target)) return true;
-
-        return t[i][target] =  false;
-    }
-
     bool canPartition(vector<int>& nums) {
         int n = nums.size();
         int sum = 0;
@@ -24,8 +9,21 @@ public:
 
         int target =sum/2;
 
-        t.assign(n+1,vector<int>(target+1,-1));
+        vector<vector<int>>t(n+1,vector<int>(target+1,-1));
+       for(int i = 0;i<n;i++){
+        t[i][0] = 1; //basically rteh sum is 0 and is the i row which denotes size of array so 
+       }
+       for(int j = 1; j <= target; j++) t[0][j] = 0;
 
-        return solve(nums,0,target);
+       for(int i = 1;i<n+1 ;i++){
+        for(int j= 1 ; j<target +1 ;j++){
+            if(nums[i-1] <= j){
+                t[i][j] = t[i-1][j] || t[i-1][j-nums[i-1]];
+            }else{
+                t[i][j] = t[i-1][j];
+            }
+        }
+       }
+       return t[n][target];
     }
 };
