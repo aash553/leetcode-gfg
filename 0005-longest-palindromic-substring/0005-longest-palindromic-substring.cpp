@@ -1,18 +1,17 @@
 class Solution {
 public:
-    bool ispalindrome(string &s, int left , int right){
-        while(left < right ){
-            if(s[left] != s[right]) return false;
-            left++;
-            right--;
-        }
-        return true;
+    vector<vector<int>>t;
+    bool ispalindrome(string &s, int i , int j){
+
+            if(i>=j) return true;
+            if(t[i][j] != -1) return t[i][j];
+            t[i][j] = (s[i] == s[j] && ispalindrome(s,i+1,j-1)) ? 1 : 0;
+            return t[i][j];
     }
     void solve(string &s , int i , int j , int &maxlen , int &start){
         //base case 
         int n = s.length();
         if(i==n) return;
-
         if(j<n){
             if(ispalindrome(s,i,j) && j-i+1 > maxlen){
                 maxlen = j-i+1;
@@ -28,6 +27,7 @@ public:
         int start = 0;
         int n = s.length();
         int maxlen = 1;
+        t.assign(n,vector<int>(n+1,-1));
         solve(s,0,0,maxlen,start);
         return s.substr(start , maxlen);
     }
