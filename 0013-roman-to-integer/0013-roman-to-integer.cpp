@@ -13,16 +13,16 @@ public:
              default : return 0;
         }
     }
+
     int romanToInt(string s) {
-        int result = 0;
         int n = s.length();
-        for(int i =0;i<s.length();i++){
-        if(i+1< n && roman(s[i]) < roman(s[i+1])){
-            result -= roman(s[i]);
-        }
-        else{
-            result +=roman(s[i]);
-        }
+        int result = 0;
+        for(int i = 0;i<n;i++){
+            if(i+1 < n && roman(s[i])< roman(s[i+1])){
+                result -= roman(s[i]);
+            }else{
+                result += roman(s[i]);
+            }
         }
         return result;
     }
