@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/aash553/leetcode-gfg/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/aash553/leetcode-gfg/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aash553/leetcode-gfg/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1508-longest-happy-prefix](https://github.com/aash553/leetcode-gfg/tree/master/1508-longest-happy-prefix) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aash553/leetcode-gfg/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [3617-find-the-original-typed-string-i](https://github.com/aash553/leetcode-gfg/tree/master/3617-find-the-original-typed-string-i) |
 | [3934-coupon-code-validator](https://github.com/aash553/leetcode-gfg/tree/master/3934-coupon-code-validator) |
@@ -787,10 +788,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/aash553/leetcode-gfg/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1508-longest-happy-prefix](https://github.com/aash553/leetcode-gfg/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/aash553/leetcode-gfg/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1508-longest-happy-prefix](https://github.com/aash553/leetcode-gfg/tree/master/1508-longest-happy-prefix) |
 ## Topological Sort
 |  |
 | ------- |
@@ -803,4 +806,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/aash553/leetcode-gfg/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/aash553/leetcode-gfg/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## String Matching
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/aash553/leetcode-gfg/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
