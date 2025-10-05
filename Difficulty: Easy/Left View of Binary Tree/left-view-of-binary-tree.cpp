@@ -1,34 +1,36 @@
-/* A binary tree node
-
-struct Node
-{
+/*
+class Node {
+public:
     int data;
-    struct Node* left;
-    struct Node* right;
+    Node* left;
+    Node* right;
 
-    Node(int x){
-        data = x;
-        left = right = NULL;
+    Node(int val) {
+        data = val;
+        left = nullptr;
+        right = nullptr;
     }
 };
- */
+*/
 
 class Solution {
   public:
-  
-  void recur(Node *root , int level , vector<int>&res){
-      if(root == NULL ) return;
-      
-      if(res.size() == level ) res.push_back(root->data);
-      recur(root->left , level+1, res);
-      recur(root->right , level+1 , res);
-  }
-  
-  
     vector<int> leftView(Node *root) {
-        // code here
-        vector<int>res;
-        recur(root,0,res);
-        return res;
+        vector<int>left;
+        if(root == NULL) return left;
+        queue<Node*>q;
+        q.push(root);
+        while(!q.empty()){
+            int size = q.size();
+            for(int i =0 ;i<size; i++){
+                Node * node = q.front();
+                q.pop();
+                if(i==0) left.push_back(node->data);
+                
+                if(node->left != NULL) q.push(node->left);
+                if(node->right != NULL) q.push(node->right);
+            }
+        }
+        return left;
     }
 };
