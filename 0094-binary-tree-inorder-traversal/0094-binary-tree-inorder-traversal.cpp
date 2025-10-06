@@ -16,16 +16,16 @@ public:
         TreeNode * node = root;
         stack<TreeNode*>st;
         while(true){
-            if(node!= NULL){
+            if(node!=NULL){
                 st.push(node);
-                node = node -> left;
+                node = node->left;
             }
             else{
-                if(st.empty() == true) break;
-                node = st.top();
-                st.pop();
-                inorder.push_back(node->val);
-                node = node -> right;
+            if(st.empty() == true) break;
+            node = st.top();
+            st.pop();
+            inorder.push_back(node->val);
+            node = node -> right;
             }
         }
         return inorder;
