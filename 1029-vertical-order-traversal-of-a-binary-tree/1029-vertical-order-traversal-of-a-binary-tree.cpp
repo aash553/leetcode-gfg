@@ -14,9 +14,10 @@ public:
     vector<vector<int>> verticalTraversal(TreeNode* root) {
         vector<vector<int>>ans;
         if(root == NULL) return ans;
-        map<int,map<int,multiset<int>>>mpp; // verticals , level , nodes 
-        queue<pair<TreeNode * , pair<int,int>>>q; // nodes,verticals,level
+        map<int,map<int,multiset<int>>>mpp;
+        queue<pair<TreeNode*,pair<int,int>>>q;
         q.push({root,{0,0}});
+
         while(!q.empty()){
             auto it = q.front();
             TreeNode * node = it.first;
@@ -24,14 +25,13 @@ public:
             int x = it.second.first;
             int y = it.second.second;
             mpp[x][y].insert(node->val);
-
-            if(node->left != NULL) q.push({node->left ,{x-1,y+1}});
-            if(node->right != NULL) q.push({node->right , {x+1, y+1}});
+            if(node->left != NULL) q.push({node->left,{x-1,y+1}});
+            if(node->right != NULL) q.push({node->right ,{x+1,y+1}});
         }
-        for(auto p : mpp){
+        for(auto it : mpp){
             vector<int>cols;
-            for(auto it : p.second){
-                cols.insert(cols.end(),it.second.begin(),it.second.end());
+            for(auto p : it.second){
+                cols.insert(cols.end(), p.second.begin(),p.second.end());
             }
             ans.push_back(cols);
         }
