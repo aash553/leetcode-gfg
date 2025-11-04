@@ -1,22 +1,23 @@
 class Solution {
 public:
 
-    void recur(int index , vector<int>&arr , vector<vector<int>>&ans){
-        if(index == arr.size()){
-            ans.push_back(arr);
+    void solve(int ind , vector<int>&nums , vector<vector<int>>&ans){
+        int n = nums.size();
+        if(ind == nums.size()){
+            ans.push_back(nums);
             return;
         }
-
-        for( int i=index;i<arr.size();i++){
-            swap(arr[index],arr[i]);
-            recur(index+1,arr,ans);
-            swap(arr[index],arr[i]);
+        for(int i = ind ; i<n ; i++){
+        swap(nums[i] , nums[ind]);
+        solve(ind+1 , nums , ans);
+        swap(nums[i], nums[ind]);
         }
     }
 
     vector<vector<int>> permute(vector<int>& nums) {
-       vector<vector<int>>ans;
-       recur(0,nums,ans);
-       return ans;
+        int n = nums.size();
+        vector<vector<int>>ans;
+        solve(0,nums,ans);
+        return ans;
     }
 };
