@@ -13,13 +13,13 @@ class Solution {
 public:
     int count = 0 ;
 
-    vector<int>dfs(TreeNode * root , int distance ){
+    vector<int> dfs(TreeNode * root , int distance ){
 
         if(root == NULL) return {};
         if(!root->left  && !root->right) return {1};
 
-        vector<int>left = dfs(root->left , distance);
-        vector<int>right = dfs(root->right , distance);
+        vector<int> left = dfs(root->left , distance);
+        vector<int> right = dfs(root->right , distance);
 
         for(int l : left)
             for(int r : right)
