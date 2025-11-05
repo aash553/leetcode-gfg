@@ -12,6 +12,7 @@
 class Solution {
 public:
     int goodNodes(TreeNode* root) {
+        if(root == NULL) return 0;
         int cnt = 0 ;
         stack<pair<TreeNode* ,int>> st;
         st.push({root, root->val});
