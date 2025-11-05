@@ -647,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/aash553/leetcode-gfg/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/aash553/leetcode-gfg/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aash553/leetcode-gfg/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/aash553/leetcode-gfg/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/aash553/leetcode-gfg/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/aash553/leetcode-gfg/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aash553/leetcode-gfg/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/aash553/leetcode-gfg/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -744,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/aash553/leetcode-gfg/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aash553/leetcode-gfg/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aash553/leetcode-gfg/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/aash553/leetcode-gfg/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -764,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aash553/leetcode-gfg/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aash553/leetcode-gfg/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/aash553/leetcode-gfg/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/aash553/leetcode-gfg/tree/master/0784-insert-into-a-binary-search-tree) |
