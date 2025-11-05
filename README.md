@@ -650,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/aash553/leetcode-gfg/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/aash553/leetcode-gfg/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aash553/leetcode-gfg/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0662-maximum-width-of-binary-tree) |
@@ -677,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/aash553/leetcode-gfg/tree/master/0322-coin-change) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/aash553/leetcode-gfg/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/aash553/leetcode-gfg/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/aash553/leetcode-gfg/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0662-maximum-width-of-binary-tree) |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/aash553/leetcode-gfg/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/aash553/leetcode-gfg/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aash553/leetcode-gfg/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0662-maximum-width-of-binary-tree) |
@@ -744,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/aash553/leetcode-gfg/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/aash553/leetcode-gfg/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/aash553/leetcode-gfg/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/aash553/leetcode-gfg/tree/master/0572-subtree-of-another-tree) |
@@ -760,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/aash553/leetcode-gfg/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/aash553/leetcode-gfg/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/aash553/leetcode-gfg/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Union Find
