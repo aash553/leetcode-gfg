@@ -1,16 +1,14 @@
 class Solution {
 public:
 
-    vector<int>t;
-    int solve(int n){
-        //base case 
-        if(n==0 || n==1 ) return 1;
-        if(t[n] != -1) return t[n];
-        return t[n] =  solve(n-1) + solve(n-2);
-    }
-
     int climbStairs(int n) {
-        t.assign(n+1,-1);
-        return solve(n);
+       vector<int>t(n+1,0);
+        
+        t[0] = 1;
+        t[1] = 1;
+        for(int i =2;i<n+1;i++){
+            t[i] = t[i-1] + t[i-2];
+        }
+        return t[n];
     }
 };
