@@ -10,61 +10,59 @@
 class Solution {
 public:
 
-    void mark(TreeNode* root,unordered_map<TreeNode* ,TreeNode*> &parent_track, TreeNode * target){
+    void mark(TreeNode * root , TreeNode * target , unordered_map<TreeNode* , TreeNode*> & parent_track){
         queue<TreeNode*>q;
         q.push(root);
         while(!q.empty()){
             int size = q.size();
-            TreeNode * current = q.front();
-            q.pop();
-            if(current->left){
-                parent_track[current->left] =current;
-                q.push(current->left);
-            }
-            if(current->right){
-                parent_track[current->right] = current; 
-                q.push(current->right);
+                TreeNode * node = q.front();
+                q.pop();
+                if(node->left){
+                    parent_track[node->left] = node;
+                    q.push(node->left); 
+                }
+                if(node->right){
+                    parent_track[node->right] = node;
+                    q.push(node->right);
             }
         }
     }
-
-
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
-        unordered_map<TreeNode* ,TreeNode*> parent_track;
-        mark(root,parent_track,target);
+        unordered_map<TreeNode* , TreeNode*> parent_track;
+        mark(root, target , parent_track);
 
-        unordered_map<TreeNode*,bool>vis;
         queue<TreeNode*>q;
+        unordered_map<TreeNode*,bool>vis;
         q.push(target);
-        vis[target]=true;
-        int curr_level=0;
+        vis[target] = true; 
+        int cur_level = 0;
         while(!q.empty()){
             int size = q.size();
-            if(curr_level ++ == k) break;
-            for(int i =0;i<size;i++){
-                TreeNode * current = q.front();
+            if(cur_level ++ == k) break;
+            for(int i = 0;i<size;i++){
+                TreeNode * node = q.front();
                 q.pop();
-                if(current->left && !vis[current->left]){
-                    q.push(current->left);
-                    vis[current->left] = true;
+                if(node->left && !vis[node->left]){
+                    q.push(node->left);
+                    vis[node->left] = true;
+                }
+                if(node->right && !vis[node->right]){
+                    q.push(node->right);
+                    vis[node->right] = true;
                 }
 
-                if(current->right && !vis[current->right]){
-                    q.push(current->right);
-                    vis[current->right] = true;
-                }
-                if(parent_track[current] && !vis[parent_track[current]]){
-                    q.push(parent_track[current]);
-                    vis[parent_track[current]] = true;
+                if(parent_track[node] && !vis[parent_track[node]]){
+                    q.push(parent_track[node]);
+                    vis[parent_track[node]]= true;
                 }
             }
         }
-        vector<int>result;
+        vector<int>res;
         while(!q.empty()){
-            TreeNode * current = q.front();
+            TreeNode * node = q.front();
             q.pop();
-            result.push_back(current->val);
+            res.push_back(node->val);
         }
-        return result;
+        return res;
     }
 };
