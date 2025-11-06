@@ -1,38 +1,25 @@
 class Solution {
 public:
-    int robb(vector<int>& nums) {
 
-        int n = nums.size();
-        int prev1 = nums[0];
-        int prev2= 0;
-
-        for ( int i =1;i<n; i++){
-
-            int take = nums[i];
-            if(i>1) take+=prev2;
-
-            int notake = 0 + prev1;
-
-            int curi = max(take,notake);
-            prev2=prev1;
-            prev1 =curi;
+    int solve(vector<int>&nums, int start , int end){
+        int prev1 = 0 , prev2 = 0 ;
+        for(int i = start ;i <= end ; i++){
+            int pick = nums[i]+prev2;
+            int skip = prev1;
+            int curr = max(pick ,skip);
+        prev2= prev1;
+        prev1 = curr;
         }
         return prev1;
     }
 
     int rob(vector<int>& nums) {
-
         int n = nums.size();
         if(n==1) return nums[0];
 
-        vector<int> temp1, temp2;
+        int ans1= solve(nums,0,n-2);
+        int ans2 = solve(nums,1,n-1);
 
-        for(int i=0;i<n;i++){
-            if (i!=0) temp1.push_back(nums[i]);
-            if( i!=n-1)temp2.push_back(nums[i]);
-        }
-
-        return max(robb(temp1), robb(temp2));
-        
+        return max(ans1,ans2);
     }
 };
