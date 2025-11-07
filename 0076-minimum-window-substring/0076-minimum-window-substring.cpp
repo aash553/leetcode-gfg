@@ -1,42 +1,43 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-
         int n = s.length();
-        if(t.length() > s.length()) return "";
+        int m = t.length();
+        int start  = 0;
+        int count = 0;
+        int minlen = INT_MAX;
+        int l = 0 , r =0;
 
-        int minwindow = INT_MAX;
-        int requiredcount = t.length();
-        int i =0 , j=0;
-        int start_i=0;
+        if(n<m) return "";
 
-        unordered_map<char,int>mpp;
-       for(char &ch : t){
-        mpp[ch]++;
-       }
-        while(j<n){
-            char ch = s[j];
-
-            if(mpp[ch]>0){
-                requiredcount--;
-            }
-            mpp[ch]--;
-
-            while(requiredcount==0){
-                //start shrinking the window
-                int currwindow = j-i+1;
-                if(minwindow>currwindow){
-                minwindow = currwindow;
-                start_i = i;
-                }
-                mpp[s[i]]++; 
-                if(mpp[s[i]]>0){
-                    requiredcount++;
-                }
-                i++;
-            }
-            j++;
+        map<char, int >mpp;
+        for(auto ch : t){
+            mpp[ch]++;
         }
-        return minwindow == INT_MAX ? "" : s.substr(start_i,minwindow);
+
+        count = mpp.size();
+
+        while(r<n){
+            if(mpp.find(s[r]) != mpp.end()){
+                mpp[s[r]]--;
+                if(mpp[s[r]] == 0)
+                count--;
+            }
+            while(count == 0){
+                if(r-l+1 < minlen){
+                    minlen = r-l+1;
+                    start = l;
+                }
+                if(mpp.find(s[l]) != mpp.end()){
+                    mpp[s[l]]++;
+                    if(mpp[s[l]] == 1)
+                    count++;
+                }
+                l++;
+            }
+            r++;
+        }
+        if(minlen == INT_MAX) return "";
+        return s.substr(start,minlen);
     }
 };
