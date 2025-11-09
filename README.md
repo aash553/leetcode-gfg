@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aash553/leetcode-gfg/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aash553/leetcode-gfg/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/aash553/leetcode-gfg/tree/master/0451-sort-characters-by-frequency) |
+| [0744-network-delay-time](https://github.com/aash553/leetcode-gfg/tree/master/0744-network-delay-time) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aash553/leetcode-gfg/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/aash553/leetcode-gfg/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/aash553/leetcode-gfg/tree/master/1127-last-stone-weight) |
@@ -695,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/aash553/leetcode-gfg/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/aash553/leetcode-gfg/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/aash553/leetcode-gfg/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/aash553/leetcode-gfg/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/aash553/leetcode-gfg/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -768,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/aash553/leetcode-gfg/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/aash553/leetcode-gfg/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/aash553/leetcode-gfg/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/aash553/leetcode-gfg/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/aash553/leetcode-gfg/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -800,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/aash553/leetcode-gfg/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aash553/leetcode-gfg/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/aash553/leetcode-gfg/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/aash553/leetcode-gfg/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/aash553/leetcode-gfg/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/aash553/leetcode-gfg/tree/master/0820-find-eventual-safe-states) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/aash553/leetcode-gfg/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -855,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/aash553/leetcode-gfg/tree/master/0744-network-delay-time) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/aash553/leetcode-gfg/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/aash553/leetcode-gfg/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## String Matching
