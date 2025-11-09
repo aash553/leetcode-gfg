@@ -1,23 +1,23 @@
 class Solution {
   public:
   
-  void solve(int node , vector<int>&ls , vector<int> &vis, vector<vector<int>>& adj){
-      
+  void solve(int node , vector<int>&vis , vector<int>&ls , vector<vector<int>>& adj){
       vis[node] = 1;
       ls.push_back(node);
-      for(auto it : adj[node]){
-          if(!vis[it]){
-              solve(it,ls,vis,adj);
+      for(auto actualnode : adj[node]){
+          if(!vis[actualnode]){
+              solve(actualnode , vis,ls,adj);
           }
       }
   }
   
     vector<int> dfs(vector<vector<int>>& adj) {
-        // Code here
-        vector<int>ls;
+        
         int n = adj.size();
+        
          vector<int>vis(n,0);
-        solve(0,ls,vis,adj);
-        return ls;
+         vector<int>ls;
+         solve(0,vis,ls,adj);
+         return ls;
     }
 };
