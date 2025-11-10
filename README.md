@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/aash553/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/aash553/leetcode-gfg/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aash553/leetcode-gfg/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0721-accounts-merge](https://github.com/aash553/leetcode-gfg/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/aash553/leetcode-gfg/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/aash553/leetcode-gfg/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/aash553/leetcode-gfg/tree/master/0740-delete-and-earn) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/aash553/leetcode-gfg/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/aash553/leetcode-gfg/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/aash553/leetcode-gfg/tree/master/0686-repeated-string-match) |
+| [0721-accounts-merge](https://github.com/aash553/leetcode-gfg/tree/master/0721-accounts-merge) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/aash553/leetcode-gfg/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1170-shortest-common-supersequence](https://github.com/aash553/leetcode-gfg/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/aash553/leetcode-gfg/tree/master/1250-longest-common-subsequence) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/aash553/leetcode-gfg/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/aash553/leetcode-gfg/tree/master/0455-assign-cookies) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aash553/leetcode-gfg/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0721-accounts-merge](https://github.com/aash553/leetcode-gfg/tree/master/0721-accounts-merge) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aash553/leetcode-gfg/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/aash553/leetcode-gfg/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/aash553/leetcode-gfg/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/aash553/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/aash553/leetcode-gfg/tree/master/0567-permutation-in-string) |
+| [0721-accounts-merge](https://github.com/aash553/leetcode-gfg/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/aash553/leetcode-gfg/tree/master/0740-delete-and-earn) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0966-binary-subarrays-with-sum](https://github.com/aash553/leetcode-gfg/tree/master/0966-binary-subarrays-with-sum) |
@@ -695,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/aash553/leetcode-gfg/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/aash553/leetcode-gfg/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/aash553/leetcode-gfg/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/aash553/leetcode-gfg/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/aash553/leetcode-gfg/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/aash553/leetcode-gfg/tree/master/0801-is-graph-bipartite) |
@@ -769,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/aash553/leetcode-gfg/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/aash553/leetcode-gfg/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aash553/leetcode-gfg/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/aash553/leetcode-gfg/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/aash553/leetcode-gfg/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/aash553/leetcode-gfg/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/aash553/leetcode-gfg/tree/master/0801-is-graph-bipartite) |
@@ -794,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/aash553/leetcode-gfg/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aash553/leetcode-gfg/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/aash553/leetcode-gfg/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/aash553/leetcode-gfg/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/aash553/leetcode-gfg/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/aash553/leetcode-gfg/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/aash553/leetcode-gfg/tree/master/1753-path-with-minimum-effort) |
