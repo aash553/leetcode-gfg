@@ -1,29 +1,30 @@
 class Solution {
 public:
 
-    vector<vector<int>>t;
-    int solve(vector<int>&coins , int i , int amount){
-
-        int n = coins.size();
-        if(i == n) return 1e9;
-        if(amount == 0 ) return 0 ;
-        if(amount < 0) return 1e9;
-
-        if(t[i][amount] != -1) return t[i][amount];
-
-        int include = 1 + solve(coins , i , amount-coins[i]);
-        int exclude = solve(coins,i+1,amount);
-
-        return t[i][amount] = min(include , exclude);
-
-
-    }
-
+   
     int coinChange(vector<int>& coins, int amount) {
         //recursion 
         int n = coins.size();
-        t.assign(n+1,vector<int>(amount+1,-1));
-        int ans =  solve(coins , 0 , amount);
-        return (ans >= 1e9) ? -1 : ans;
+       vector<vector<int>>t(n+1,vector<int>(amount+1,-1));
+        
+        t[0][0]=0;
+        for(int i = 0 ;i<=n;i++){
+            for(int j = 0 ;j<=amount;j++){
+            t[0][j] = 1e9;
+            t[i][0] = 0;
+            }
+        }
+
+        for(int i = 1;i<n+1;i++){
+            for(int j=1;j<amount+1;j++){
+                int notpick = t[i-1][j];
+                int pick = INT_MAX;
+                if( j >= coins[i-1]){
+                    pick = 1 + t[i][j-coins[i-1]];
+                }
+                t[i][j] = min(pick,notpick);
+            }
+        }
+        return (t[n][amount] >= 1e9)  ? -1 : t[n][amount];
     }
 };
