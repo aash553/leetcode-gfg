@@ -1,19 +1,19 @@
 class Solution {
   public:
   
-  
-  void merge(vector<int>&arr,int low ,int mid , int high){
-      int left= low;
-      int right = mid+1;
+  void mergee(vector<int>&arr, int low , int mid , int high){
+
+      int left = low;
+      int right = mid + 1;
       
       vector<int>temp;
-      while(left <= mid && right <=high){
+      while(left <= mid && right <= high){
           if(arr[left] < arr[right]){
               temp.push_back(arr[left]);
               left++;
           }else{
               temp.push_back(arr[right]);
-              right ++;
+              right++;
           }
       }
       
@@ -27,21 +27,22 @@ class Solution {
           right++;
       }
       
-      for(int i = low ; i<=high; i++){
+      for(int i =low;i<=high;i++){
           arr[i] = temp[i-low];
       }
   }
   
-  void ms(vector<int>&arr, int low ,int high){
-      if(low >= high) return;
-      
-      int mid = low+(high-low)/2;
-      ms(arr,low,mid);
-      ms(arr,mid+1,high);
-      merge(arr,low,mid,high);
+  void ms(vector<int>&arr , int low , int high){
+      if(low >= high) return ;
+        int mid = low+(high-low)/2;
+        ms(arr,low,mid);
+        ms(arr,mid+1,high);
+        mergee(arr,low,mid,high);
   }
+  
     void mergeSort(vector<int>& arr, int l, int r) {
+        // code here
         int n = arr.size();
-        ms(arr,0,n-1);
+        ms(arr,l,r);
     }
 };
