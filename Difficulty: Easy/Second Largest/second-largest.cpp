@@ -1,14 +1,15 @@
 class Solution {
   public:
     int getSecondLargest(vector<int> &arr) {
-        int n = arr.size();
         int prev = INT_MIN;
-        int maxi = INT_MIN;
-        for(int i = 0 ; i <n ;i++){
+        int maxi = arr[0];
+        int n = arr.size();
+        for(int i =0 ;i<n;i++){
             if(arr[i] > maxi){
-                prev = maxi;
+                prev= maxi;
                 maxi = arr[i];
-            }else if( arr[i] < maxi && arr[i] > prev){
+            }
+            else if(arr[i] > prev && arr[i] < maxi){
                 prev = arr[i];
             }
         }
