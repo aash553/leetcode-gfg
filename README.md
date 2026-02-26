@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/aash553/leetcode-gfg/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aash553/leetcode-gfg/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/aash553/leetcode-gfg/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/aash553/leetcode-gfg/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/aash553/leetcode-gfg/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/aash553/leetcode-gfg/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/aash553/leetcode-gfg/tree/master/0494-target-sum) |
