@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aash553/leetcode-gfg/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/aash553/leetcode-gfg/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aash553/leetcode-gfg/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/aash553/leetcode-gfg/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/aash553/leetcode-gfg/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/aash553/leetcode-gfg/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/aash553/leetcode-gfg/tree/master/0073-set-matrix-zeroes) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/aash553/leetcode-gfg/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/aash553/leetcode-gfg/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/aash553/leetcode-gfg/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/aash553/leetcode-gfg/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/aash553/leetcode-gfg/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aash553/leetcode-gfg/tree/master/0074-search-a-2d-matrix) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/aash553/leetcode-gfg/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/aash553/leetcode-gfg/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/aash553/leetcode-gfg/tree/master/0258-add-digits) |
 | [2195-time-needed-to-buy-tickets](https://github.com/aash553/leetcode-gfg/tree/master/2195-time-needed-to-buy-tickets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aash553/leetcode-gfg/tree/master/2271-rearrange-array-elements-by-sign) |
