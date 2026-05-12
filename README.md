@@ -888,4 +888,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/aash553/leetcode-gfg/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/aash553/leetcode-gfg/tree/master/0686-repeated-string-match) |
 | [1508-longest-happy-prefix](https://github.com/aash553/leetcode-gfg/tree/master/1508-longest-happy-prefix) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aash553/leetcode-gfg/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
